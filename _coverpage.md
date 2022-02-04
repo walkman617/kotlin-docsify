@@ -1,6 +1,8 @@
 <!-- _coverpage.md -->
 
-![logo](AndroidKotlin.jpeg)
+![logo](kotlin-hero.svg)
+
+# Android Development with Kotlin
 
 > 本课程共包含13节，每节课都配合2小时的 Codelab 实践。
 
