@@ -1,6 +1,6 @@
 <!-- _coverpage.md -->
 
-![logo](AndroidKotlin.jpeg)
+![logo](AndroidKotlin.png)
 
 # 利用 Kotlin 进行 Android 开发
 
