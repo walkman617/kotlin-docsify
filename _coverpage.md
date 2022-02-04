@@ -1,14 +1,14 @@
 <!-- _coverpage.md -->
 
-![logo](icon.svg)
+![logo](AndroidKotlin.jpeg)
 
-# docsify <small>4.12.1</small>
+# 利用 Kotlin 进行 Android 开发
 
-> A magical documentation site generator.
+> 课程介绍了使用 Kotlin 编程语言进行 Android 应用开发的基础知识。
 
-- Simple and lightweight
-- No statically built html files
-- Multiple themes
+- 教学课件
+- Codelab
+- 数字徽章
 
-[GitHub](https://github.com/docsifyjs/docsify/)
-[Get Started](#headline)
+[课件下载](https://github.com/walkman617/AndroidDevKotlin)
+[实验内容](https://g.co/android/student)
