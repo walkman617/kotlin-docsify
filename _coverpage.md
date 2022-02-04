@@ -1,6 +1,6 @@
 <!-- _coverpage.md -->
 
-![logo](AndroidKotlin.png)
+![logo](kotlin-hero.svg)
 
 # 利用 Kotlin 进行 Android 开发
 
@@ -8,3 +8,4 @@
 
 [课件下载](https://github.com/walkman617/AndroidDevKotlin)
 [实验内容](https://g.co/android/student)
+[课程介绍](#课程介绍)
