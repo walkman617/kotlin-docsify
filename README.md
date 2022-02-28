@@ -6,9 +6,12 @@
 
 [Android Studio](https://developer.android.com/studio) 为 Kotlin 提供一流的支持，甚至还提供内置工具来帮助您将 Java 代码转换成 Kotlin 代码。
 
-# 理论学习
-- [Slides](https://github.com/walkman617/AndroidDevKotlin)
+# 选课名单
+***腾讯文档***：https://docs.qq.com/sheet/DYldualFLZXVKYWtZ
+1. 填写个人邮箱：受邀加入[tapd.cn](https://www.tapd.cn/)上的项目“智能移动开发_2022春”，用于上机实践中的答疑；
+2. 填写个人Git项目的访问地址：如[GitHub](https://github.com)、[GitLab](https://about.gitlab.com)、[码云](https://gitee.com)，用于提交每次的[上机实践](https://g.co/android/student)Codelab成果和徽章截图。
 
 
-# 实践项目
-- [Codelabs](https://developer.android.com/courses/android-development-with-kotlin/course?utm_source=dac&utm_medium=website&utm_campaign=edu)
+
+# 学期项目
+***待定***
