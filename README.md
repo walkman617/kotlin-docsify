@@ -37,13 +37,13 @@
 ***Get an introduction to Android development and UI basics.***
 
 ### Lesson 4: [Build your first Android app](https://developer.android.com/courses/pathways/android-development-with-kotlin-4)
+***开始日期：***2022年3月4日
+***提交截止日期：***2022年3月8日
+
+### Lesson 5: [Layouts](https://developer.android.com/courses/pathways/android-development-with-kotlin-5)
 ***开始日期：***2022年3月8日
 ***提交截止日期：***2022年3月15日
 
-### Lesson 5: [Layouts](https://developer.android.com/courses/pathways/android-development-with-kotlin-5)
+### Lesson 6: [App navigation](https://developer.android.com/courses/pathways/android-development-with-kotlin-6)
 ***开始日期：***2022年3月15日
 ***提交截止日期：***2022年3月22日
-
-### Lesson 6: [App navigation](https://developer.android.com/courses/pathways/android-development-with-kotlin-6)
-***开始日期：***2022年3月22日
-***提交截止日期：***2022年3月29日
