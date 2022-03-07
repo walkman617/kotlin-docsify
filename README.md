@@ -16,7 +16,7 @@
 1. 平时成绩（60%）：通过个人的git项目提交每次Codelab的成果和徽章截图，提交时间应在下次上机任务之前（***晚提交作业会有较重的扣分***）；
 2. 学期项目报告（40%）：3月底之前通知大家。
 
-# 上机实践（进度要求）
+# 上机进度要求
 
 ## Unit 1: [Get started with Kotlin](https://developer.android.com/courses/android-development-with-kotlin/unit-1)
 ***Take your first steps programming in Kotlin.***
