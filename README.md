@@ -16,19 +16,34 @@
 1. 平时成绩（60%）：通过个人的git项目提交每次Codelab的成果和徽章截图，提交时间应在下次上机任务之前（***晚提交作业会有较重的扣分***）；
 2. 学期项目报告（40%）：3月底之前通知大家。
 
-# 上机实践（进度要求）|
-## Lesson 1: Kotlin basics 
+# 上机实践（进度要求）
+
+## Unit 1: [Get started with Kotlin](https://developer.android.com/courses/android-development-with-kotlin/unit-1)
+***Take your first steps programming in Kotlin.***
+
+### Lesson 1: [Kotlin basics](https://developer.android.com/courses/pathways/android-development-with-kotlin-1) 
 ***开始日期：***2022年2月15日
 ***提交截止日期：***2022年3月8日
 
-## Lession 2: Functions
+### Lession 2: [Functions](https://developer.android.com/courses/pathways/android-development-with-kotlin-2)
 ***开始日期：***2022年2月22日
 ***提交截止日期：***2022年3月8日
 
-## Lesson 3: Classes and objects
+### Lesson 3: [Classes and objects](https://developer.android.com/courses/pathways/android-development-with-kotlin-3)
 ***开始日期：***2022年2月22日
 ***提交截止日期：***2022年3月8日
 
-## Lesson 4: Build your first Android app
-***开始日期：***2022年3月4日
-***提交截止日期：***2022年3月8日
+## Unit 2: [Introduction to Android](https://developer.android.com/courses/android-development-with-kotlin/unit-2)
+***Get an introduction to Android development and UI basics.***
+
+### Lesson 4: [Build your first Android app](https://developer.android.com/courses/pathways/android-development-with-kotlin-4)
+***开始日期：***2022年3月8日
+***提交截止日期：***2022年3月15日
+
+### Lesson 5: [Layouts](https://developer.android.com/courses/pathways/android-development-with-kotlin-5)
+***开始日期：***2022年3月15日
+***提交截止日期：***2022年3月22日
+
+### Lesson 6: [App navigation](https://developer.android.com/courses/pathways/android-development-with-kotlin-6)
+***开始日期：***2022年3月22日
+***提交截止日期：***2022年3月29日
