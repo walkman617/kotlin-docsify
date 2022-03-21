@@ -6,6 +6,12 @@
 
 [Android Studio](https://developer.android.com/studio) 为 Kotlin 提供一流的支持，甚至还提供内置工具来帮助您将 Java 代码转换成 Kotlin 代码。
 
+
+# 内容介绍
+
+[微信云托管](https://cloud.weixin.qq.com/cloudrun) 以容器服务为核心，提供方便易用的存储体系、微信生态、安全鉴权等服务能力；搭配简单易懂的操作面板，集成资源监控，资源告警，流水线等自动化功能，是一站式的后端云服务。
+
+
 # 选课名单
 ***腾讯文档***：https://docs.qq.com/sheet/DYldualFLZXVKYWtZ
 1. 填写个人邮箱：受邀加入[tapd.cn](https://www.tapd.cn/)上的项目“智能移动开发_2022春”，用于上机实践中的答疑；
@@ -47,3 +53,7 @@
 ### Lesson 6: [App navigation](https://developer.android.com/courses/pathways/android-development-with-kotlin-6)
 ***开始日期：***2022年3月15日
 ***提交截止日期：***2022年3月22日
+
+### Lesson 7: [Activity and fragment lifecycles](https://developer.android.com/courses/pathways/android-development-with-kotlin-7)
+***开始日期：***2022年3月22日
+***提交截止日期：***2022年3月29日
