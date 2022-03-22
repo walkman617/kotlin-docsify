@@ -54,6 +54,9 @@
 ***开始日期：***2022年3月15日
 ***提交截止日期：***2022年3月22日
 
+## Unit 3: [Android App Architecture](https://developer.android.com/courses/android-development-with-kotlin/unit-3)
+***Learn Android app architecture using Kotlin.***
+
 ### Lesson 7: [Activity and fragment lifecycles](https://developer.android.com/courses/pathways/android-development-with-kotlin-7)
 ***开始日期：***2022年3月22日
 ***提交截止日期：***2022年3月29日
