@@ -60,3 +60,7 @@
 ### Lesson 7: [Activity and fragment lifecycles](https://developer.android.com/courses/pathways/android-development-with-kotlin-7)
 ***开始日期：***2022年3月22日
 ***提交截止日期：***2022年3月29日
+
+### Lesson 8: [App architecture (UI layer)](https://developer.android.com/courses/pathways/android-development-with-kotlin-8)
+***开始日期：***2022年3月29日
+***提交截止日期：***2022年4月5日
