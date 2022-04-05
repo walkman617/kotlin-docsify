@@ -8,7 +8,7 @@
 3. [Android Studio](https://developer.android.com/studio) 为 Kotlin 提供一流的支持，甚至还提供内置工具来帮助您将 Java 代码转换成 Kotlin 代码。
 
 ## 微信小程序开发
-1. [微信公众平台]（https://mp.weixin.qq.com/）小程序是一种新的开放能力，可以在微信内被便捷地获取和传播，同时具有出色的使用体验。
+1. [微信公众平台](https://mp.weixin.qq.com/) 小程序是一种新的开放能力，可以在微信内被便捷地获取和传播，同时具有出色的使用体验。
 
 2. [云开发CloudBase](https://cloudbase.net/) 提供了云原生一体化应用开发平台，可以快速构建小程序、Web、移动应用的后端服务。
 
@@ -27,9 +27,11 @@
 2. 每次上机任务的提交截止时间在下次上机任务之前（***晚提交作业会有较重的扣分***）。
 
 ## 学期项目报告（40%）
-1. 参加2022[微信小程序应用开发赛](https://developers.weixin.qq.com/community/competition)；
-2. 将开发赛要求的文档等内容同时提交到个人Git项目中（***2022年6月9日前报名、6月16日前提交***）；
-3. 组队要求（***本课程要求只能选择1人或2人组队***）：1人独立组队（完成“前端小程序+后端云开发”），2人组队（完成“前端小程序+后端微信云托管”）。
+1. 参加[2022微信小程序应用开发赛](https://developers.weixin.qq.com/community/competition)（***2022年6月9日前报名***）；
+2. 将开发赛要求的文档等内容同时提交到个人Git项目中（***2022年6月16日前提交***）；
+3. 组队要求（***本课程要求只能选择1人或2人组队***）。
+    - 1人独立组队：完成前端[小程序](https://developers.weixin.qq.com/miniprogram/dev/framework/)+后端[云开发](https://developers.weixin.qq.com/miniprogram/dev/wxcloud/basis/getting-started.html);
+    - 2人组队：完成前端[小程序](https://developers.weixin.qq.com/miniprogram/dev/framework/)+后端[微信云托管](https://developers.weixin.qq.com/miniprogram/dev/wxcloudrun/src/basic/intro.html)。
 
 
 # 上机实践
