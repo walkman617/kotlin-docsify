@@ -4,7 +4,7 @@
 
 # 《智能移动开发》
 
-> Smart Mobile Development
+> 使用Kotlin进行Android开发
 
 [内容介绍](#内容介绍)
 [课件下载](https://github.com/walkman617/AndroidDevKotlin)
