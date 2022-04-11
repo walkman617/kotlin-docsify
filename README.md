@@ -6,25 +6,6 @@
 3. [Android Studio](https://developer.android.com/studio) 为 Kotlin 提供一流的支持，甚至还提供内置工具来帮助您将 Java 代码转换成 Kotlin 代码。
 
 
-# 选课名单
-***腾讯文档***：https://docs.qq.com/sheet/DYldualFLZXVKYWtZ
-1. 填写个人邮箱：受邀加入[tapd.cn](https://www.tapd.cn/)上的项目“智能移动开发_2022春”，用于上机实践中的答疑；
-2. 填写个人Git项目的访问地址：如[GitHub](https://github.com)、[GitLab](https://about.gitlab.com)、[码云](https://gitee.com)，用于提交每次的[上机实践](https://g.co/android/student)的成果和学期项目报告。
-
-
-# 成绩考核
-## 平时成绩（60%）
-1. 将每次上机的成果和徽章截图提交到个人的Git项目中；
-2. 每次上机任务的提交截止时间在下次上机任务之前（***晚提交作业会有较重的扣分***）。
-
-## 学期项目报告（40%）
-1. 参加[2022微信小程序应用开发赛](https://developers.weixin.qq.com/community/competition)（***2022年6月9日前报名***）；
-2. 将开发赛要求的文档等内容同时提交到个人Git项目中（***2022年6月16日前提交***）；
-3. 组队要求（***本课程要求只能选择1人或2人组队***）。
-    - 1人独立组队：完成前端[小程序](https://developers.weixin.qq.com/miniprogram/dev/framework/)+后端[云开发](https://developers.weixin.qq.com/miniprogram/dev/wxcloud/basis/getting-started.html);
-    - 2人组队：完成前端[小程序](https://developers.weixin.qq.com/miniprogram/dev/framework/)+后端[微信云托管](https://developers.weixin.qq.com/miniprogram/dev/wxcloudrun/src/basic/intro.html)。
-
-
 # 上机实践
 
 ## Unit 1: [Get started with Kotlin](https://developer.android.com/courses/android-development-with-kotlin/unit-1)

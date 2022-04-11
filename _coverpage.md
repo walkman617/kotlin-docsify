@@ -1,6 +1,6 @@
 <!-- _coverpage.md -->
 
-![logo](mad.gif)
+![logo](kotlin-hero.svg)
 
 # 《智能移动开发》
 
