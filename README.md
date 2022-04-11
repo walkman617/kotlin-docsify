@@ -1,18 +1,9 @@
 # 内容介绍
-
-## 使用 Kotlin 进行 Android 开发
 1. [Kotlin](https://kotlinlang.org/) is a cross-platform, statically typed, general-purpose programming language with type inference. Kotlin is designed to interoperate fully with Java, and the JVM version of Kotlin's standard library depends on the Java Class Library, but type inference allows its syntax to be more concise.
 
 2. [Develop Android apps with Kotlin](https://developer.android.com/kotlin) 使用 Kotlin 更快地编写更出色的 Android 应用。 Kotlin 是一种新型的静态类型编程语言，有超过 60% 的专业 Android 开发者在使用，它有助于提高工作效率、开发者满意度和代码安全性。
 
 3. [Android Studio](https://developer.android.com/studio) 为 Kotlin 提供一流的支持，甚至还提供内置工具来帮助您将 Java 代码转换成 Kotlin 代码。
-
-## 微信小程序开发
-1. [微信公众平台](https://mp.weixin.qq.com/) 小程序是一种新的开放能力，可以在微信内被便捷地获取和传播，同时具有出色的使用体验。
-
-2. [云开发CloudBase](https://cloudbase.net/) 提供了云原生一体化应用开发平台，可以快速构建小程序、Web、移动应用的后端服务。
-
-3. [微信云托管](https://cloud.weixin.qq.com/cloudrun) 以容器服务为核心，提供方便易用的存储体系、微信生态、安全鉴权等服务能力；搭配简单易懂的操作面板，集成资源监控，资源告警，流水线等自动化功能，是一站式的后端云服务。
 
 
 # 选课名单
