@@ -76,3 +76,7 @@
 ### Lesson 8: [App architecture (UI layer)](https://developer.android.com/courses/pathways/android-development-with-kotlin-8)
 ***开始日期：***2022年3月29日
 ***提交截止日期：***2022年4月5日
+
+### Lesson 9: [App architecture (persistence)](https://developer.android.com/courses/pathways/android-development-with-kotlin-9)
+***开始日期：***2022年4月12日
+***提交截止日期：***2022年4月19日
