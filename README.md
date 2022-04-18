@@ -52,3 +52,7 @@
 ### Lesson 9: [App architecture (persistence)](https://developer.android.com/courses/pathways/android-development-with-kotlin-9)
 ***开始日期：***2022年4月12日
 ***提交截止日期：***2022年4月19日
+
+### Lesson 10: [Advanced RecyclerView use cases](https://developer.android.com/courses/pathways/android-development-with-kotlin-10)
+***开始日期：***2022年4月19日
+***提交截止日期：***2022年4月26日
