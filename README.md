@@ -5,6 +5,8 @@
 
 3. [Android Studio](https://developer.android.com/studio) 为 Kotlin 提供一流的支持，甚至还提供内置工具来帮助您将 Java 代码转换成 Kotlin 代码。
 
+4. [Machine learning for mobile developers](https://developers.google.com/ml-kit) ML Kit brings Google’s machine learning expertise to mobile developers in a powerful and easy-to-use package. 
+
 
 # 上机实践
 
