@@ -60,3 +60,5 @@
 ### Lesson 11: [Connect to the internet](https://developer.android.com/courses/pathways/android-development-with-kotlin-11)
 ***开始日期：***2022年4月26日
 ***提交截止日期：***2022年5月3日
+
+    - 如果访问资源失败，请将 BASE_URL（"https://android-kotlin-fun-mars-server.appspot.com"） 修改为"https://k.nkugame.com/mars-server/"
