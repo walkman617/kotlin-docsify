@@ -1,11 +1,20 @@
 # 内容介绍
-1. [Kotlin](https://kotlinlang.org/) is a cross-platform, statically typed, general-purpose programming language with type inference. Kotlin is designed to interoperate fully with Java, and the JVM version of Kotlin's standard library depends on the Java Class Library, but type inference allows its syntax to be more concise.
 
-2. [Develop Android apps with Kotlin](https://developer.android.com/kotlin) 使用 Kotlin 更快地编写更出色的 Android 应用。 Kotlin 是一种新型的静态类型编程语言，有超过 60% 的专业 Android 开发者在使用，它有助于提高工作效率、开发者满意度和代码安全性。
+## [Kotlin](https://kotlinlang.org/)
 
-3. [Android Studio](https://developer.android.com/studio) 为 Kotlin 提供一流的支持，甚至还提供内置工具来帮助您将 Java 代码转换成 Kotlin 代码。
+Kotlin is a cross-platform, statically typed, general-purpose programming language with type inference. Kotlin is designed to interoperate fully with Java, and the JVM version of Kotlin's standard library depends on the Java Class Library, but type inference allows its syntax to be more concise.
 
-4. [Machine learning for mobile developers](https://developers.google.com/ml-kit) ML Kit brings Google’s machine learning expertise to mobile developers in a powerful and easy-to-use package. 
+## [Develop Android apps with Kotlin](https://developer.android.com/kotlin) 
+
+Write better Android apps faster with Kotlin. Kotlin is a modern statically typed programming language used by over 60% of professional Android developers that helps boost productivity, developer satisfaction, and code safety.
+
+## [Android Studio](https://developer.android.com/studio) 
+
+Android Studio provides the fastest tools for building apps on every type of Android device.
+
+## [Machine learning for mobile developers](https://developers.google.com/ml-kit) 
+
+ML Kit brings Google’s machine learning expertise to mobile developers in a powerful and easy-to-use package. 
 
 
 # 上机实践
