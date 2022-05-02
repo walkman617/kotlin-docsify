@@ -66,3 +66,7 @@
     - 如果访问资源失败，请修改 app/java/network/MarsApiService.kt 文件中的 BASE_URL 值
     - 原始值："https://android-kotlin-fun-mars-server.appspot.com"
     - 修改为："https://cloud1-5gmqj72ea1aed157-1305888744.ap-shanghai.app.tcloudbase.com/"
+
+### Lesson 12: [Repository pattern andWorkManager](https://developer.android.com/courses/pathways/android-development-with-kotlin-12)
+***开始日期：***2022年5月3日
+***提交截止日期：***2022年5月10日
