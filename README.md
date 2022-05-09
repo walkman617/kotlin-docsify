@@ -76,6 +76,13 @@ ML Kit brings Google’s machine learning expertise to mobile developers in a po
     - 原始值："https://android-kotlin-fun-mars-server.appspot.com"
     - 修改为："https://cloud1-5gmqj72ea1aed157-1305888744.ap-shanghai.app.tcloudbase.com/"
 
-### Lesson 12: [Repository pattern andWorkManager](https://developer.android.com/courses/pathways/android-development-with-kotlin-12)
+### Lesson 12: [Repository pattern and WorkManager](https://developer.android.com/courses/pathways/android-development-with-kotlin-12)
 ***开始日期：***2022年5月3日
 ***提交截止日期：***2022年5月10日
+
+## Unit 4: [Android app design](https://developer.android.com/courses/android-development-with-kotlin/unit-4)
+***Learn best practices, guidelines, and tools for effective Android app design.***
+
+### Lesson 13: [App UI Design](https://developer.android.com/courses/pathways/android-development-with-kotlin-13) 
+***开始日期：***2022年5月10日
+***提交截止日期：***2022年5月17日
