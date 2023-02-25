@@ -18,13 +18,28 @@ ML Kit brings Google’s machine learning expertise to mobile developers in a po
 
 
 # 上机实践
+## 准备工作
+1. 注册[腾讯工蜂](https://code.tencent.com/)账号
+
+2. 在[花名册](https://docs.qq.com/sheet/DYkhuUXp6eE1neURh?tab=BB08J2)中填入个人手机号和腾讯工蜂用户名(个人设置->账户->用户名)
+
+3. 每次作业通过[腾讯工蜂](https://code.tencent.com/)上对应项目的 “议题”进行提交
+- 每次作业提交的截止日期为下次上机的前一天
+- 议题的标题用 “学号+姓名” 命名（如 “2000000李逵”）
+
+4. 每次作业（议题）需要包含的内容包括：
+- 关键代码截图（3-5张）：包含文件名和关键代码
+- App关键界面截图（3-5张）
+- 徽章Badge截图（1张）：包含个人头像和徽章
+
 
 ## Unit 1: [Get started with Kotlin](https://developer.android.com/courses/android-development-with-kotlin/unit-1)
 ***Take your first steps programming in Kotlin.***
 
 ### Lesson 1: [Kotlin basics](https://developer.android.com/courses/pathways/android-development-with-kotlin-1) 
-***开始日期：***TBD
-***提交截止日期：***TBD
+> 作业提交位置：https://git.code.tencent.com/smd2023/Lesson1
+> 开始日期：2023年2月27日
+> 截止日期：2023年3月5日 23:59:59
 
 ### Lession 2: [Functions](https://developer.android.com/courses/pathways/android-development-with-kotlin-2)
 ***开始日期：***TBD
