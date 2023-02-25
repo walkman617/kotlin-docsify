@@ -37,9 +37,9 @@ ML Kit brings Google’s machine learning expertise to mobile developers in a po
 ***Take your first steps programming in Kotlin.***
 
 ### Lesson 1: [Kotlin basics](https://developer.android.com/courses/pathways/android-development-with-kotlin-1) 
-> 作业提交位置：https://git.code.tencent.com/smd2023/Lesson1
-> 开始日期：2023年2月27日
-> 截止日期：2023年3月5日 23:59:59
+> - 作业提交位置：https://git.code.tencent.com/smd2023/Lesson1
+> - 开始日期：2023年2月27日
+> - 截止日期：2023年3月5日 23:59:59
 
 ### Lession 2: [Functions](https://developer.android.com/courses/pathways/android-development-with-kotlin-2)
 ***开始日期：***TBD
