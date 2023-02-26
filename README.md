@@ -34,76 +34,76 @@
 > - 徽章Badge截图（1张）：包含个人头像和徽章
 
 
-## 第1单元: [Kotlin 使用入门](https://developer.android.com/courses/android-development-with-kotlin/unit-1)
+## 第1单元：[Kotlin 使用入门](https://developer.android.com/courses/android-development-with-kotlin/unit-1)
 ***Take your first steps programming in Kotlin.***
 
-### 第1课: Kotlin 基础知识
+### 第1课：Kotlin 基础知识
 > - 实践内容：[链接](https://developer.android.com/courses/pathways/android-development-with-kotlin-1)
 > - 作业提交：[链接](https://git.code.tencent.com/smd2023/Lesson1)
 > - 开始日期：2023年2月27日
 > - 截止日期：2023年3月5日 23:59:59
 
-### 第2课: 函数
+### 第2课：函数
 > - 实践内容：[链接](https://developer.android.com/courses/pathways/android-development-with-kotlin-2)
 > - 作业提交位置：TBD
 > - 开始日期：TBD
 > - 截止日期：TBD
 
-### 第3课: 类和对象
+### 第3课：类和对象
 > - 实践内容：[链接](https://developer.android.com/courses/pathways/android-development-with-kotlin-3)
 > - 作业提交位置：TBD
 > - 开始日期：TBD
 > - 截止日期：TBD
 
-## 第2单元: [Android 简介](https://developer.android.com/courses/android-development-with-kotlin/unit-2)
+## 第2单元：[Android 简介](https://developer.android.com/courses/android-development-with-kotlin/unit-2)
 ***Get an introduction to Android development and UI basics.***
 
-### 第4课: 构建首个 Android 应用
+### 第4课：构建首个 Android 应用
 > - 实践内容：[链接](https://developer.android.com/courses/pathways/android-development-with-kotlin-4)
 > - 作业提交位置：TBD
 > - 开始日期：TBD
 > - 截止日期：TBD
 
-### 第5课: 布局
+### 第5课：布局
 > - 实践内容：[链接](https://developer.android.com/courses/pathways/android-development-with-kotlin-5)
 > - 作业提交位置：TBD
 > - 开始日期：TBD
 > - 截止日期：TBD
 
-### 第6课: 应用导航
+### 第6课：应用导航
 > - 实践内容：[链接](https://developer.android.com/courses/pathways/android-development-with-kotlin-6)
 > - 作业提交位置：TBD
 > - 开始日期：TBD
 > - 截止日期：TBD
 
-## 第3单元: [Android 应用架构](https://developer.android.com/courses/android-development-with-kotlin/unit-3)
+## 第3单元：[Android 应用架构](https://developer.android.com/courses/android-development-with-kotlin/unit-3)
 ***Learn Android app architecture using Kotlin.***
 
-### 第7课: Activity 和 fragment 生命周期
+### 第7课：Activity 和 fragment 生命周期
 > - 实践内容：[链接](https://developer.android.com/courses/pathways/android-development-with-kotlin-7)
 > - 作业提交位置：TBD
 > - 开始日期：TBD
 > - 截止日期：TBD
 
-### 第8课: 应用架构 (界面层)
+### 第8课：应用架构 (界面层)
 > - 实践内容：[链接](https://developer.android.com/courses/pathways/android-development-with-kotlin-8)
 > - 作业提交位置：TBD
 > - 开始日期：TBD
 > - 截止日期：TBD
 
-### 第9课: 应用架构 (持久层)
+### 第9课：应用架构 (持久层)
 > - 实践内容：[链接](https://developer.android.com/courses/pathways/android-development-with-kotlin-9)
 > - 作业提交位置：TBD
 > - 开始日期：TBD
 > - 截止日期：TBD
 
-### 第10课: 高级 RecyclerView 用例
+### 第10课：高级 RecyclerView 用例
 > - 实践内容：[链接](https://developer.android.com/courses/pathways/android-development-with-kotlin-10)
 > - 作业提交位置：TBD
 > - 开始日期：TBD
 > - 截止日期：TBD
 
-### 第11课: 连接到互联网
+### 第11课：连接到互联网
 > - 实践内容：[链接](https://developer.android.com/courses/pathways/android-development-with-kotlin-11)
 > - 作业提交位置：TBD
 > - 开始日期：TBD
@@ -113,16 +113,16 @@
     - 原始值："https://android-kotlin-fun-mars-server.appspot.com"
     - 修改为：TBD
 
-### 第12课: 仓库模式和 WorkManager
+### 第12课：仓库模式和 WorkManager
 > - 实践内容：[链接](https://developer.android.com/courses/pathways/android-development-with-kotlin-12)
 > - 作业提交位置：TBD
 > - 开始日期：TBD
 > - 截止日期：TBD
 
-## 第4单元: [Android 应用设计](https://developer.android.com/courses/android-development-with-kotlin/unit-4)
+## 第4单元：[Android 应用设计](https://developer.android.com/courses/android-development-with-kotlin/unit-4)
 ***Learn best practices, guidelines, and tools for effective Android app design.***
 
-### 第13课: 应用界面设计
+### 第13课：应用界面设计
 > - 实践内容：[链接](https://developer.android.com/courses/pathways/android-development-with-kotlin-13)
 > - 作业提交位置：TBD
 > - 开始日期：TBD
