@@ -38,19 +38,19 @@
 ***Take your first steps programming in Kotlin.***
 
 ### 第1课：Kotlin 基础知识
-> - 实践内容：[链接](https://developer.android.com/courses/pathways/android-development-with-kotlin-1)（需要代理）
-> - 作业提交：[链接](https://git.code.tencent.com/smd2023/Lesson1)
+> - 学习路线：[Pathway](https://developer.android.com/courses/pathways/android-development-with-kotlin-1)（需要代理）
+> - 作业提交：[Issues](https://git.code.tencent.com/smd2023/Lesson1)
 > - 开始日期：2023年2月27日
 > - 截止日期：2023年3月5日 23:59:59
 
 ### 第2课：函数
-> - 实践内容：[链接](https://developer.android.com/courses/pathways/android-development-with-kotlin-2)（需要代理）
+> - 学习路线：[Pathway](https://developer.android.com/courses/pathways/android-development-with-kotlin-2)（需要代理）
 > - 作业提交位置：TBD
 > - 开始日期：TBD
 > - 截止日期：TBD
 
 ### 第3课：类和对象
-> - 实践内容：[链接](https://developer.android.com/courses/pathways/android-development-with-kotlin-3)（需要代理）
+> - 学习路线：[Pathway](https://developer.android.com/courses/pathways/android-development-with-kotlin-3)（需要代理）
 > - 作业提交位置：TBD
 > - 开始日期：TBD
 > - 截止日期：TBD
@@ -59,19 +59,19 @@
 ***Get an introduction to Android development and UI basics.***
 
 ### 第4课：构建首个 Android 应用
-> - 实践内容：[链接](https://developer.android.com/courses/pathways/android-development-with-kotlin-4)（需要代理）
+> - 学习路线：[Pathway](https://developer.android.com/courses/pathways/android-development-with-kotlin-4)（需要代理）
 > - 作业提交位置：TBD
 > - 开始日期：TBD
 > - 截止日期：TBD
 
 ### 第5课：布局
-> - 实践内容：[链接](https://developer.android.com/courses/pathways/android-development-with-kotlin-5)（需要代理）
+> - 学习路线：[Pathway](https://developer.android.com/courses/pathways/android-development-with-kotlin-5)（需要代理）
 > - 作业提交位置：TBD
 > - 开始日期：TBD
 > - 截止日期：TBD
 
 ### 第6课：应用导航
-> - 实践内容：[链接](https://developer.android.com/courses/pathways/android-development-with-kotlin-6)（需要代理）
+> - 学习路线：[Pathway](https://developer.android.com/courses/pathways/android-development-with-kotlin-6)（需要代理）
 > - 作业提交位置：TBD
 > - 开始日期：TBD
 > - 截止日期：TBD
@@ -80,31 +80,31 @@
 ***Learn Android app architecture using Kotlin.***
 
 ### 第7课：Activity 和 fragment 生命周期
-> - 实践内容：[链接](https://developer.android.com/courses/pathways/android-development-with-kotlin-7)（需要代理）
+> - 学习路线：[Pathway](https://developer.android.com/courses/pathways/android-development-with-kotlin-7)（需要代理）
 > - 作业提交位置：TBD
 > - 开始日期：TBD
 > - 截止日期：TBD
 
 ### 第8课：应用架构 (界面层)
-> - 实践内容：[链接](https://developer.android.com/courses/pathways/android-development-with-kotlin-8)（需要代理）
+> - 学习路线：[Pathway](https://developer.android.com/courses/pathways/android-development-with-kotlin-8)（需要代理）
 > - 作业提交位置：TBD
 > - 开始日期：TBD
 > - 截止日期：TBD
 
 ### 第9课：应用架构 (持久层)
-> - 实践内容：[链接](https://developer.android.com/courses/pathways/android-development-with-kotlin-9)（需要代理）
+> - 学习路线：[Pathway](https://developer.android.com/courses/pathways/android-development-with-kotlin-9)（需要代理）
 > - 作业提交位置：TBD
 > - 开始日期：TBD
 > - 截止日期：TBD
 
 ### 第10课：高级 RecyclerView 用例
-> - 实践内容：[链接](https://developer.android.com/courses/pathways/android-development-with-kotlin-10)（需要代理）
+> - 学习路线：[Pathway](https://developer.android.com/courses/pathways/android-development-with-kotlin-10)（需要代理）
 > - 作业提交位置：TBD
 > - 开始日期：TBD
 > - 截止日期：TBD
 
 ### 第11课：连接到互联网
-> - 实践内容：[链接](https://developer.android.com/courses/pathways/android-development-with-kotlin-11)（需要代理）
+> - 学习路线：[Pathway](https://developer.android.com/courses/pathways/android-development-with-kotlin-11)（需要代理）
 > - 作业提交位置：TBD
 > - 开始日期：TBD
 > - 截止日期：TBD
@@ -114,7 +114,7 @@
     - 修改为：TBD
 
 ### 第12课：仓库模式和 WorkManager
-> - 实践内容：[链接](https://developer.android.com/courses/pathways/android-development-with-kotlin-12)（需要代理）
+> - 学习路线：[Pathway](https://developer.android.com/courses/pathways/android-development-with-kotlin-12)（需要代理）
 > - 作业提交位置：TBD
 > - 开始日期：TBD
 > - 截止日期：TBD
@@ -123,7 +123,7 @@
 ***Learn best practices, guidelines, and tools for effective Android app design.***
 
 ### 第13课：应用界面设计
-> - 实践内容：[链接](https://developer.android.com/courses/pathways/android-development-with-kotlin-13)（需要代理）
+> - 学习路线：[Pathway](https://developer.android.com/courses/pathways/android-development-with-kotlin-13)（需要代理）
 > - 作业提交位置：TBD
 > - 开始日期：TBD
 > - 截止日期：TBD
