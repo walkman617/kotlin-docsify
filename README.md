@@ -50,14 +50,14 @@
 ### 第2课：函数
 > - 学习路线：[Pathway](https://developer.android.com/courses/pathways/android-development-with-kotlin-2)（需要代理）
 > - 作业提交位置：[Issues](https://git.code.tencent.com/smd2023/Lesson2)
-> - 开始日期：TBD
-> - 截止日期：TBD
+> - 开始日期：2023年3月6日
+> - 截止日期：2023年3月12日 23:59:59
 
 ### 第3课：类和对象
 > - 学习路线：[Pathway](https://developer.android.com/courses/pathways/android-development-with-kotlin-3)（需要代理）
 > - 作业提交位置：[Issues](https://git.code.tencent.com/smd2023/Lesson3)
-> - 开始日期：TBD
-> - 截止日期：TBD
+> - 开始日期：2023年3月13日
+> - 截止日期：2023年3月19日 23:59:59
 
 ## 第2单元：[Android 简介](https://developer.android.com/courses/android-development-with-kotlin/unit-2)
 ***Get an introduction to Android development and UI basics.***
