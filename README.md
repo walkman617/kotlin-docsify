@@ -45,13 +45,13 @@
 
 ### 第2课：函数
 > - 学习路线：[Pathway](https://developer.android.com/courses/pathways/android-development-with-kotlin-2)（需要代理）
-> - 作业提交位置：TBD
+> - 作业提交位置：[Issues](https://git.code.tencent.com/smd2023/Lesson2)
 > - 开始日期：TBD
 > - 截止日期：TBD
 
 ### 第3课：类和对象
 > - 学习路线：[Pathway](https://developer.android.com/courses/pathways/android-development-with-kotlin-3)（需要代理）
-> - 作业提交位置：TBD
+> - 作业提交位置：[Issues](https://git.code.tencent.com/smd2023/Lesson3)
 > - 开始日期：TBD
 > - 截止日期：TBD
 
