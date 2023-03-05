@@ -33,6 +33,10 @@
 > - App关键界面截图（3-5张）
 > - 徽章Badge截图（1张）：包含个人头像和徽章
 
+5. 每个单元和课程的学习路线（Pathway）需要代理才能访问，或者：
+> - 将路径中的 `https://developer.android.com/`
+> - 替换成 `https://developer.android.google.cn/` 
+> - 即可不用代理就能访问
 
 ## 第1单元：[Kotlin 使用入门](https://developer.android.com/courses/android-development-with-kotlin/unit-1)
 ***Take your first steps programming in Kotlin.***
