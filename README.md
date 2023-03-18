@@ -64,21 +64,21 @@
 
 ### 第4课：构建首个 Android 应用
 > - 学习路线：[Pathway](https://developer.android.com/courses/pathways/android-development-with-kotlin-4)（需要代理）
-> - 作业提交位置：TBD
-> - 开始日期：TBD
-> - 截止日期：TBD
+> - 作业提交位置：[Issues](https://git.code.tencent.com/smd2023/Lesson4)
+> - 开始日期：2023年3月20日
+> - 截止日期：2023年3月26日 23:59:59
 
 ### 第5课：布局
 > - 学习路线：[Pathway](https://developer.android.com/courses/pathways/android-development-with-kotlin-5)（需要代理）
-> - 作业提交位置：TBD
-> - 开始日期：TBD
-> - 截止日期：TBD
+> - 作业提交位置：[Issues](https://git.code.tencent.com/smd2023/Lesson5)
+> - 开始日期：2023年3月27日
+> - 截止日期：2023年4月2日 23:59:59
 
 ### 第6课：应用导航
 > - 学习路线：[Pathway](https://developer.android.com/courses/pathways/android-development-with-kotlin-6)（需要代理）
-> - 作业提交位置：TBD
-> - 开始日期：TBD
-> - 截止日期：TBD
+> - 作业提交位置：[Issues](https://git.code.tencent.com/smd2023/Lesson6)
+> - 开始日期：2023年4月3日
+> - 截止日期：2023年4月9日 23:59:59
 
 ## 第3单元：[Android 应用架构](https://developer.android.com/courses/android-development-with-kotlin/unit-3)
 ***Learn Android app architecture using Kotlin.***
