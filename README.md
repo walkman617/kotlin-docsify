@@ -85,21 +85,21 @@
 
 ### 第7课：Activity 和 fragment 生命周期
 > - 学习路线：[Pathway](https://developer.android.com/courses/pathways/android-development-with-kotlin-7)（需要代理）
-> - 作业提交位置：TBD
-> - 开始日期：TBD
-> - 截止日期：TBD
+> - 作业提交位置：[Issues](https://git.code.tencent.com/smd2023/Lesson7)
+> - 开始日期：2023年4月10日
+> - 截止日期：2023年4月16日 23:59:59
 
 ### 第8课：应用架构 (界面层)
 > - 学习路线：[Pathway](https://developer.android.com/courses/pathways/android-development-with-kotlin-8)（需要代理）
-> - 作业提交位置：TBD
-> - 开始日期：TBD
-> - 截止日期：TBD
+> - 作业提交位置：[Issues](https://git.code.tencent.com/smd2023/Lesson8)
+> - 开始日期：2023年4月17日
+> - 截止日期：2023年4月23日 23:59:59
 
 ### 第9课：应用架构 (持久层)
 > - 学习路线：[Pathway](https://developer.android.com/courses/pathways/android-development-with-kotlin-9)（需要代理）
-> - 作业提交位置：TBD
-> - 开始日期：TBD
-> - 截止日期：TBD
+> - 作业提交位置：[Issues](https://git.code.tencent.com/smd2023/Lesson9)
+> - 开始日期：2023年4月24日
+> - 截止日期：2023年4月30日 23:59:59
 
 ### 第10课：高级 RecyclerView 用例
 > - 学习路线：[Pathway](https://developer.android.com/courses/pathways/android-development-with-kotlin-10)（需要代理）
