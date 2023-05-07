@@ -112,9 +112,9 @@
 
 ### 第10课：高级 RecyclerView 用例
 > - 学习路线：[Pathway](https://developer.android.com/courses/pathways/android-development-with-kotlin-10)（需要代理）
-> - 作业提交位置：TBD
-> - 开始日期：TBD
-> - 截止日期：TBD
+> - 作业提交位置：[Issues](https://git.code.tencent.com/smd2023/Lesson10)
+> - 开始日期：2023年5月8日
+> - 截止日期：2023年5月14日 23:59:59
 
 ### 第11课：连接到互联网
 > - 学习路线：[Pathway](https://developer.android.com/courses/pathways/android-development-with-kotlin-11)（需要代理）
