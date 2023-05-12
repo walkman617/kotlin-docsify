@@ -124,8 +124,8 @@
 
 > 如果访问互联网资源失败，可以选择如下方法之一进行解决
 - 方法一：请修改 app/java/network/MarsApiService.kt 文件中的 BASE_URL 值
-    - 原始值："https://android-kotlin-fun-mars-server.appspot.com"
-    - 修改为："https://open.nkugame.com"
+    - 原始值：https://android-kotlin-fun-mars-server.appspot.com
+    - 修改为：https://open.nkugame.com
 
 - 方法二：使用宿主代理（以 Android Studio 创建的模拟器为例）
     - 如果你的主机能访问上述 BASE_URL，但是安卓模拟器不能访问，可以按如下方法操作
