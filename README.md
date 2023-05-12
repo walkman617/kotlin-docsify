@@ -118,13 +118,16 @@
 
 ### 第11课：连接到互联网
 > - 学习路线：[Pathway](https://developer.android.com/courses/pathways/android-development-with-kotlin-11)（需要代理）
-> - 作业提交位置：TBD
-> - 开始日期：TBD
-> - 截止日期：TBD
+> - 作业提交位置：[Issues](https://git.code.tencent.com/smd2023/Lesson11)
+> - 开始日期：2023年5月15日
+> - 截止日期：2023年5月21日 23:59:59
 
-    - 如果访问资源失败，请修改 app/java/network/MarsApiService.kt 文件中的 BASE_URL 值
+    - 如果访问互联网资源失败，可以选择如下方法中之一进行解决
+    - **方法一**：请修改 app/java/network/MarsApiService.kt 文件中的 BASE_URL 值
     - 原始值："https://android-kotlin-fun-mars-server.appspot.com"
-    - 修改为：TBD
+    - 修改为："https://openit-7gl1g0x9db6d6680-1305888744.ap-shanghai.app.tcloudbase.com"
+    - **方法二**：
+    - 如果你的主机能访问上述BASE_URL，但是安卓模拟器不能访问，[给安卓模拟器使用宿主机代理](https://www.bilibili.com/read/cv18390870)
 
 ### 第12课：仓库模式和 WorkManager
 > - 学习路线：[Pathway](https://developer.android.com/courses/pathways/android-development-with-kotlin-12)（需要代理）
