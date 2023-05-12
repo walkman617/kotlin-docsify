@@ -122,34 +122,29 @@
 > - 开始日期：2023年5月15日
 > - 截止日期：2023年5月21日 23:59:59
 
-> 如果访问互联网资源失败，可以选择如下方法中之一进行解决
+> 如果访问互联网资源失败，可以选择如下方法之一进行解决
 - 方法一：请修改 app/java/network/MarsApiService.kt 文件中的 BASE_URL 值
     - 原始值："https://android-kotlin-fun-mars-server.appspot.com"
     - 修改为："https://openit-7gl1g0x9db6d6680-1305888744.ap-shanghai.app.tcloudbase.com"
 
 - 方法二：使用宿主代理（以 Android Studio 创建的模拟器为例）
     - 如果你的主机能访问上述 BASE_URL，但是安卓模拟器不能访问，可以按如下方法操作
-    - 查找Android Studio中的SDK路径
-    ![1](2023-05-12-16-10-06.png)
+    - 查找 Android Studio -> Tools -> SDK Manager 中的 Android SDK 路径
+    ![1](1.png)
 
-    - 进入上述SDK路径下adb所在的子目录
-    ![2](2023-05-12-16-53-31.png)
+    - 在 Android Studio 底部的 Terminal 窗口中输入命令：进入上述SDK路径下adb所在的子目录
+    ![2](2.png)
 
-    - 查看并连接模拟器设备
+    - 查看和连接模拟器设备，并设置代理([设置 Android 模拟器网络](https://developer.android.google.cn/studio/run/emulator-networking?hl=zh-cn))
     ```
-    adb devices
-    adb -s emulator-5554 shell
+    $ adb devices
+    $ adb -s emulator-5554 shell
+    $ settings put global http_proxy 10.0.2.2:port // port为pc的代理端口
     ```
-    ![3](2023-05-12-17-01-47.png)
-    
-    - 设置代理([设置 Android 模拟器网络](https://developer.android.google.cn/studio/run/emulator-networking?hl=zh-cn))
-    ```
-    settings put global http_proxy 10.0.2.2:port // port为pc的代理端口
-    ```
-    ![4](2023-05-12-17-04-21.png)
+    ![3](3.png)
 
-    >  Windows环境下，上述 port（pc的代理端口）可以通过如下方式查询到
-    ![5](agent.jpg)
+    - Windows环境下，上述 port（pc的代理端口）可以通过如下方式查询到
+    ![4](agent.jpg)
 
 
 ### 第12课：仓库模式和 WorkManager
