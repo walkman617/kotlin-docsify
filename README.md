@@ -135,11 +135,13 @@
     - 在 Android Studio 底部的 Terminal 窗口中输入命令：进入上述SDK路径下adb所在的子目录
     ![2](2.png)
 
-    - 查看和连接模拟器设备，并设置代理([设置 Android 模拟器网络](https://developer.android.google.cn/studio/run/emulator-networking?hl=zh-cn))
+    - 查看和连接模拟器设备，并设置代理（[设置 Android 模拟器网络](https://developer.android.google.cn/studio/run/emulator-networking?hl=zh-cn)）
     ```
     $ adb devices
     $ adb -s emulator-5554 shell
     $ settings put global http_proxy 10.0.2.2:port // port为pc的代理端口
+    如果希望移除代理，可以输入：
+    $ settings put global http_proxy :0
     ```
     ![3](3.png)
 
