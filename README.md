@@ -23,7 +23,7 @@
 > - Unity账号：[注册与登记](https://docs.qq.com/sheet/DYmVES0JZUlRoeWJC?tab=BB08J2)
 > - Unity中文课堂：[Unity引擎基础课程](https://learn.u3d.cn/campus/course/unity-ling-hang-ji-hua/introduction)
 > - 课程报告提交时间：2023年6月23日23:59:59之前
-> - 课程报告提交方式：TBD
+> - 课程报告提交方式：[Issues](https://git.code.tencent.com/smd2023/FinalReport)
 
 
 # 上机实践
@@ -161,5 +161,5 @@
 ### 第13课：应用界面设计
 > - 学习路线：[Pathway](https://developer.android.com/courses/pathways/android-development-with-kotlin-13)（需要代理）
 > - 作业提交位置：[Issues](https://git.code.tencent.com/smd2023/Lesson13)
-> - 开始日期：2023年5月29日
-> - 截止日期：2023年6月4日 23:59:59
+> - 开始日期：2023年6月5日
+> - 截止日期：2023年6月11日 23:59:59
