@@ -20,7 +20,7 @@
 ## 课程成绩构成
 - 平时成绩：40%（[上机实践](https://k.nkugame.com/#/?id=%e4%b8%8a%e6%9c%ba%e5%ae%9e%e8%b7%b5) + 课堂作业与考勤）
 - 期末成绩：60%（[课程报告：面向“艺术与文化”的App设计与开发](https://docs.qq.com/doc/DYkV4cUlObnlEcmdZ)）
-> - ![FinalReportScore](FinalReportScore.png)
+> - ![FinalReport Score](FinalReport-Score.png)
 > - 课程报告提交时间：2023年6月23日23:59:59之前
 > - 课程报告提交方式：[Issues](https://git.code.tencent.com/smd2023/FinalReport)
 
