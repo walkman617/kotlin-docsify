@@ -1,6 +1,6 @@
 <!-- _coverpage.md -->
 
-![logo](kotlin-hero.svg)
+![logo](android.svg)
 
 # Smart Mobile Development
 
