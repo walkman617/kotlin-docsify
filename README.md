@@ -34,8 +34,8 @@
 > - 附件：关键界面截图（4-6张）
 
 
-## Lab 1
-> - Unit1-Pathway1: [Introduction to programming in Kotlin](https://developer.android.google.cn/courses/pathways/android-basics-compose-unit-1-pathway-1)
-> - Unit1-Pathway1: [腾讯工蜂](https://git.code.tencent.com/SMD-2024Spring/Unit1-Pathway1)
-> - 开始日期：2024年3月4日 14:00:00
-> - 截止日期：2023年3月11日 23:59:59
+## Lab 1 (2024年3月4日 ~ 2023年3月10日)
+Unit1.Pathway1
+> - 在线课程: [Introduction to programming in Kotlin](https://developer.android.google.cn/courses/pathways/android-basics-compose-unit-1-pathway-1)
+> - 作业提交: [腾讯工蜂](https://git.code.tencent.com/SMD-2024Spring/Unit1-Pathway1)
+
