@@ -29,7 +29,7 @@
 > - 议题的格式采用Markdown：语法请参考 ***[Markdown官方教程](https://markdown.com.cn/basic-syntax/)***
 
 4. 每次作业（议题）需要包含：
-> - 描述：作业情况描述（Markdown格式）
+> - 描述：作业完成情况（Markdown格式）
 > - 附件：关键程序文件（4-6个）
 > - 附件：关键界面截图（4-6张）
 
