@@ -39,3 +39,12 @@ Unit1: Pathway1
 > - 在线课程: [Introduction to programming in Kotlin](https://developer.android.google.cn/courses/pathways/android-basics-compose-unit-1-pathway-1)
 > - 作业提交: [腾讯工蜂(Unit1-Pathway1)](https://git.code.tencent.com/SMD-2024Spring/Unit1-Pathway1)
 
+## Lab 2 (2024年3月11日~2023年3月17日)
+Unit1: Pathway2
+> - 在线课程: [Introduction to programming in Kotlin](https://developer.android.google.cn/courses/pathways/android-basics-compose-unit-1-pathway-2)
+> - 作业提交: [腾讯工蜂(Unit1-Pathway1)](https://git.code.tencent.com/SMD-2024Spring/Unit1-Pathway2)
+
+Unit1: Pathway3
+> - 在线课程: [Introduction to programming in Kotlin](https://developer.android.google.cn/courses/pathways/android-basics-compose-unit-1-pathway-3)
+> - 作业提交: [腾讯工蜂(Unit1-Pathway1)](https://git.code.tencent.com/SMD-2024Spring/Unit1-Pathway3)
+
