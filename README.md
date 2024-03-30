@@ -56,3 +56,8 @@
 > Unit2: Pathway2
 > - 在线课程: [Add a button to an app](https://developer.android.google.cn/courses/pathways/android-basics-compose-unit-2-pathway-2)
 > - 作业提交: [腾讯工蜂(Unit2-Pathway2)](https://git.code.tencent.com/SMD-2024Spring/Unit2-Pathway2)
+
+## Lab 5 (2024年4月1日~2023年4月7日)
+> Unit2: Pathway3
+> - 在线课程: [Interacting with UI and state](https://developer.android.google.cn/courses/pathways/android-basics-compose-unit-2-pathway-3)
+> - 作业提交: [腾讯工蜂(Unit2-Pathway3)](https://git.code.tencent.com/SMD-2024Spring/Unit2-Pathway3)
