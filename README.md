@@ -33,12 +33,12 @@
 > - 附件：关键界面截图
 
 
-## Lab 1 (2024年3月4日~2023年3月10日)
+## Lab 1 (2024年3月4日~2024年3月10日)
 > Unit1: Pathway1
 > - 在线课程: [Introduction to programming in Kotlin](https://developer.android.google.cn/courses/pathways/android-basics-compose-unit-1-pathway-1)
 > - 作业提交: [腾讯工蜂(Unit1-Pathway1)](https://git.code.tencent.com/SMD-2024Spring/Unit1-Pathway1)
 
-## Lab 2 (2024年3月11日~2023年3月17日)
+## Lab 2 (2024年3月11日~2024年3月17日)
 > Unit1: Pathway2
 > - 在线课程: [Setup Android Studio](https://developer.android.google.cn/courses/pathways/android-basics-compose-unit-1-pathway-2)
 > - 作业提交: [腾讯工蜂(Unit1-Pathway2)](https://git.code.tencent.com/SMD-2024Spring/Unit1-Pathway2)
@@ -47,17 +47,26 @@
 > - 在线课程: [Build a basic layout](https://developer.android.google.cn/courses/pathways/android-basics-compose-unit-1-pathway-3)
 > - 作业提交: [腾讯工蜂(Unit1-Pathway3)](https://git.code.tencent.com/SMD-2024Spring/Unit1-Pathway3)
 
-## Lab 3 (2024年3月18日~2023年3月24日)
+## Lab 3 (2024年3月18日~2024年3月24日)
 > Unit2: Pathway1
 > - 在线课程: [Kotlin fundamentals](https://developer.android.google.cn/courses/pathways/android-basics-compose-unit-2-pathway-1)
 > - 作业提交: [腾讯工蜂(Unit2-Pathway1)](https://git.code.tencent.com/SMD-2024Spring/Unit2-Pathway1)
 
-## Lab 4 (2024年3月25日~2023年3月31日)
+## Lab 4 (2024年3月25日~2024年3月31日)
 > Unit2: Pathway2
 > - 在线课程: [Add a button to an app](https://developer.android.google.cn/courses/pathways/android-basics-compose-unit-2-pathway-2)
 > - 作业提交: [腾讯工蜂(Unit2-Pathway2)](https://git.code.tencent.com/SMD-2024Spring/Unit2-Pathway2)
 
-## Lab 5 (2024年4月1日~2023年4月7日)
+## Lab 5 (2024年4月1日~2024年4月7日)
 > Unit2: Pathway3
 > - 在线课程: [Interacting with UI and state](https://developer.android.google.cn/courses/pathways/android-basics-compose-unit-2-pathway-3)
 > - 作业提交: [腾讯工蜂(Unit2-Pathway3)](https://git.code.tencent.com/SMD-2024Spring/Unit2-Pathway3)
+
+## Lab 6 (2024年4月8日~2024年4月14日)
+> Unit3: Pathway1
+> - 在线课程: [More Kotlin fundamentals](https://developer.android.google.cn/courses/pathways/android-basics-compose-unit-3-pathway-1)
+> - 作业提交: [腾讯工蜂(Unit3-Pathway1)](https://git.code.tencent.com/SMD-2024Spring/Unit3-Pathway1)
+> 
+> Unit3: Pathway2
+> - 在线课程: [Build a scrollable list](https://developer.android.google.cn/courses/pathways/android-basics-compose-unit-3-pathway-2)
+> - 作业提交: [腾讯工蜂(Unit3-Pathway2)](https://git.code.tencent.com/SMD-2024Spring/Unit3-Pathway2)
