@@ -5,6 +5,7 @@
 
 ## [Jetpack Compose](https://developer.android.com/develop/ui/compose)
 > [Jetpack Compose](https://developer.android.com/develop/ui/compose) is Android’s recommended modern toolkit for building native UI. It simplifies and accelerates UI development on Android. Quickly bring your app to life with less code, powerful tools, and intuitive Kotlin APIs.
+> 
 > [Android Basics with Compose](https://developer.android.google.cn/courses/android-basics-compose/course) is a self-paced, online course on how to build Android apps using the latest best practices. It covers the basics of building apps with Jetpack Compose, the recommended toolkit for building user interfaces on Android.
 
 ## [Machine learning for mobile developers](https://developers.google.com/ml-kit) 
@@ -22,23 +23,26 @@
 > - 谷歌艺术与文化：https://artsandculture.google.com/
 
 3. 附加要求：
-> 设计阶段：组队（1-3人）参加 “2024 AIGC创新赛” 的应用赛道（2024年5月17日前），使用蓝心大模型助力移动应用（App）的功能
+> 1）设计阶段：组队（1-3人）参加 “2024 AIGC创新赛” 的应用赛道（2024年5月17日前），使用蓝心大模型助力移动应用（App）的功能
 > - 2024 AIGC创新赛（官网）：https://aigc.vivo.com/
+> - 竞赛规程：https://aigc.vivo.com/#/info/CPN20240401-002
 > - 蓝心大模型（使用指引）：https://aigc.vivo.com/#/document
 > 
-> 开发阶段：无需从零开始开发移动应用程序，可以通过扩展已有的示例项目模版进行开发
+> 2）开发阶段：无需从零开始开发移动应用程序，可以通过扩展已有的示例项目模版进行开发
 > - Jetpack Compose Samples: https://github.com/android/compose-samples
 >
-> 部署阶段：将移动应用（App）发布到某个移动应用商城，如：
-> - vivo开放平台（https://dev.vivo.com.cn/）
-> - Google Play（https://play.google.com/console/about/）
+> 3）部署阶段：将移动应用（App）发布到某个移动应用商城，如：
+> - vivo开放平台：https://dev.vivo.com.cn/
+> - Google Play：https://play.google.com/console/about/
 > - 其他 
 
 4. 分数计算
- 期末报告分数（满分60分） = 基础分数（满分50）* 系数1 * 系数2
+
+期末报告分数（满分60分） = 基础分数（满分50）* 系数1 * 系数2
+
 | 标准 | 要求 | 分数与系数 |
 | --- | --- | --- |
-| 基础分数 | Android移动应用(介绍文档+演示视频) | 0～50分 |
+| 基础分数 | Android移动应用(项目文档+演示视频) | 0～50分 |
 | 系数1 | 参加“2024 AIGC创新赛”的应用赛道并使用蓝心大模型 | 1.1 |
 | 系数2 | 发布App到移动应用商城（需提供移动商城内的应用下载链接） | 1.1 |
 
@@ -47,8 +51,8 @@
 > 1. 项目文档（每个小组提交1份，word或pdf格式）：包括但不限于应用场景描述、解决的实际问题、产品设计、技术实现方案等。
 > 2. 参加 “2024 AIGC创新赛” 时的交付文档（如未参加，则不必提交）
 > 3. 移动商城内的应用下载链接（可选）
-> 4. 演示视频：App 的主要使用流程并配上讲解，不超过3分钟
-> 5. 提交方式：To be Determined
+> 4. 演示视频：App 的操作演示并配上讲解，不超过3分钟
+> 5. 提交位置：[《智能移动开发》课程报告](https://docs.qq.com/form/page/DYnVzbmhtVWFoekZj)
 
 
 # Assignments
@@ -110,3 +114,8 @@
 > Unit3: Pathway3
 > - 在线课程: [Build beautiful apps](https://developer.android.google.cn/courses/pathways/android-basics-compose-unit-3-pathway-3)
 > - 作业提交: [腾讯工蜂(Unit3-Pathway3)](https://git.code.tencent.com/SMD-2024Spring/Unit3-Pathway3)
+
+## Lab 8 (2024年4月22日~4月29日)
+> Unit4: Pathway1
+> - 在线课程: [Architecture Components](https://developer.android.google.cn/courses/pathways/android-basics-compose-unit-4-pathway-1)
+> - 作业提交: [腾讯工蜂(Unit4-Pathway1)](https://git.code.tencent.com/SMD-2024Spring/Unit4-Pathway1)
