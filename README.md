@@ -19,30 +19,30 @@
 
 2. 选题方向：艺术与文化，对某项艺术或文化内容进行学习、保护、加工或创新，例如绘画、雕塑、建筑、音乐、舞蹈、戏剧、曲艺、动漫、文学、饮食、民俗等。
 > 参考资源：
-> - 中国非物质文化遗产：https://www.ihchina.cn/
-> - 谷歌艺术与文化：https://artsandculture.google.com/
+> - [中国非物质文化遗产](https://www.ihchina.cn/)
+> - [谷歌艺术与文化](https://artsandculture.google.com/)
 
 3. 附加要求：
 > 1）设计阶段：组队（1-3人）参加 “2024 AIGC创新赛” 的应用赛道（2024年5月17日前），使用蓝心大模型助力移动应用（App）的功能
-> - 2024 AIGC创新赛（官网）：https://aigc.vivo.com/
-> - 竞赛规程：https://aigc.vivo.com/#/info/CPN20240401-002
-> - 蓝心大模型（使用指引）：https://aigc.vivo.com/#/document
+> - 2024 AIGC创新赛：[官网](https://aigc.vivo.com/)
+> - 2024 AIGC创新赛：[竞赛规程](https://aigc.vivo.com/#/info/CPN20240401-002)
+> - 蓝心大模型：[使用指引](https://aigc.vivo.com/#/document)
 > 
 > 2）开发阶段：无需从零开始开发移动应用程序，可以通过扩展已有的示例项目模版进行开发
-> - Jetpack Compose Samples: https://github.com/android/compose-samples
+> - Jetpack Compose: [Samples](https://github.com/android/compose-samples)
 >
 > 3）部署阶段：将移动应用（App）发布到某个移动应用商城，如：
-> - vivo开放平台：https://dev.vivo.com.cn/
-> - Google Play：https://play.google.com/console/about/
+> - [vivo开放平台](https://dev.vivo.com.cn/)
+> - [Google Play](https://play.google.com/console/about/)
 > - 其他 
 
 4. 分数计算
 
-期末报告分数（满分60分） = 基础分数（满分50）* 系数1 * 系数2
+课程报告分数（满分100分） = 基础分数（满分83）* 系数1 * 系数2
 
 | 标准 | 要求 | 分数与系数 |
 | --- | --- | --- |
-| 基础分数 | Android移动应用(项目文档+演示视频) | 0～50分 |
+| 基础分数 | Android移动应用(项目文档+演示视频) | 0～83分 |
 | 系数1 | 参加“2024 AIGC创新赛”的应用赛道并使用蓝心大模型 | 1.1 |
 | 系数2 | 发布App到移动应用商城（需提供移动商城内的应用下载链接） | 1.1 |
 
