@@ -1,19 +1,54 @@
 # Essentials
 
 ## [Kotlin](https://kotlinlang.org/) and [Kotlin Playground](https://developer.android.google.cn/training/kotlinplayground)
-> Kotlin is a cross-platform, statically typed, general-purpose programming language with type inference. Kotlin is designed to interoperate fully with Java, and the JVM version of Kotlin's standard library depends on the Java Class Library, but type inference allows its syntax to be more concise.
+> [Kotlin](https://kotlinlang.org/) is a cross-platform, statically typed, general-purpose programming language with type inference. Kotlin is designed to interoperate fully with Java, and the JVM version of Kotlin's standard library depends on the Java Class Library, but type inference allows its syntax to be more concise.
 
-
-## [Android Studio](https://developer.android.com/studio) 
-> Android Studio provides the fastest tools for building apps on every type of Android device.
-
-
-## [Android Basics with Compose](https://developer.android.google.cn/courses/android-basics-compose/course) 
-> Android Basics with Compose is a self-paced, online course on how to build Android apps using the latest best practices. It covers the basics of building apps with Jetpack Compose, the recommended toolkit for building user interfaces on Android.
-
+## [Jetpack Compose](https://developer.android.com/develop/ui/compose)
+> [Jetpack Compose](https://developer.android.com/develop/ui/compose) is Android’s recommended modern toolkit for building native UI. It simplifies and accelerates UI development on Android. Quickly bring your app to life with less code, powerful tools, and intuitive Kotlin APIs.
+> [Android Basics with Compose](https://developer.android.google.cn/courses/android-basics-compose/course) is a self-paced, online course on how to build Android apps using the latest best practices. It covers the basics of building apps with Jetpack Compose, the recommended toolkit for building user interfaces on Android.
 
 ## [Machine learning for mobile developers](https://developers.google.com/ml-kit) 
 > ML Kit brings Google’s machine learning expertise to mobile developers in a powerful and easy-to-use package. 
+
+
+# FinalReport
+## 项目开发要求
+
+1. 整体要求：基于移动应用开发（Android）的前后端技术，面向“艺术与文化”的应用场景，组队（1-3人）设计和开发一款面向移动端部署的App。
+
+2. 选题方向：艺术与文化，对某项艺术或文化内容进行学习、保护、加工或创新，例如绘画、雕塑、建筑、音乐、舞蹈、戏剧、曲艺、动漫、文学、饮食、民俗等。
+> 参考资源：
+> - 中国非物质文化遗产：https://www.ihchina.cn/
+> - 谷歌艺术与文化：https://artsandculture.google.com/
+
+3. 附加要求：
+> 设计阶段：组队（1-3人）参加 “2024 AIGC创新赛” 的应用赛道（2024年5月17日前），使用蓝心大模型助力移动应用（App）的功能
+> - 2024 AIGC创新赛（官网）：https://aigc.vivo.com/
+> - 蓝心大模型（使用指引）：https://aigc.vivo.com/#/document
+> 
+> 开发阶段：无需从零开始开发移动应用程序，可以通过扩展已有的示例项目模版进行开发
+> - Jetpack Compose Samples: https://github.com/android/compose-samples
+>
+> 部署阶段：将移动应用（App）发布到某个移动应用商城，如：
+> - vivo开放平台（https://dev.vivo.com.cn/）
+> - Google Play（https://play.google.com/console/about/）
+> - 其他 
+
+4. 分数计算
+ 期末报告分数（满分60分） = 基础分数（满分50）* 系数1 * 系数2
+| 标准 | 要求 | 分数与系数 |
+| --- | --- | --- |
+| 基础分数 | Android移动应用(介绍文档+演示视频) | 0～50分 |
+| 系数1 | 参加“2024 AIGC创新赛”的应用赛道并使用蓝心大模型 | 1.1 |
+| 系数2 | 发布App到移动应用商城（需提供移动商城内的应用下载链接） | 1.1 |
+
+
+## 提交内容要求（2024年6月30日前）
+> 1. 项目文档（每个小组提交1份，word或pdf格式）：包括但不限于应用场景描述、解决的实际问题、产品设计、技术实现方案等。
+> 2. 参加 “2024 AIGC创新赛” 时的交付文档（如未参加，则不必提交）
+> 3. 移动商城内的应用下载链接（可选）
+> 4. 演示视频：App 的主要使用流程并配上讲解，不超过3分钟
+> 5. 提交方式：To be Determined
 
 
 # Assignments
