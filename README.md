@@ -115,7 +115,12 @@
 > - 在线课程: [Build beautiful apps](https://developer.android.google.cn/courses/pathways/android-basics-compose-unit-3-pathway-3)
 > - 作业提交: [腾讯工蜂(Unit3-Pathway3)](https://git.code.tencent.com/SMD-2024Spring/Unit3-Pathway3)
 
-## Lab 8 (2024年4月22日~4月29日)
+## Lab 8 (2024年4月22日~4月28日)
 > Unit4: Pathway1
 > - 在线课程: [Architecture Components](https://developer.android.google.cn/courses/pathways/android-basics-compose-unit-4-pathway-1)
 > - 作业提交: [腾讯工蜂(Unit4-Pathway1)](https://git.code.tencent.com/SMD-2024Spring/Unit4-Pathway1)
+
+## Lab 9 (2024年4月29日~5月5日)
+> Unit4: Pathway2
+> - 在线课程: [Navigation in Jetpack Compose](https://developer.android.google.cn/courses/pathways/android-basics-compose-unit-4-pathway-2)
+> - 作业提交: [腾讯工蜂(Unit4-Pathway2)](https://git.code.tencent.com/SMD-2024Spring/Unit4-Pathway2)
