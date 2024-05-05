@@ -30,6 +30,7 @@
 > 
 > 2）开发阶段：无需从零开始开发移动应用程序，可以通过扩展已有的示例项目模版进行开发
 > - Jetpack Compose: [Samples](https://github.com/android/compose-samples)
+> - Now in Android: [App](https://github.com/android/nowinandroid)
 >
 > 3）部署阶段：将移动应用（App）发布到某个移动应用商城，如：
 > - [vivo开放平台](https://dev.vivo.com.cn/)
@@ -124,3 +125,8 @@
 > Unit4: Pathway2
 > - 在线课程: [Navigation in Jetpack Compose](https://developer.android.google.cn/courses/pathways/android-basics-compose-unit-4-pathway-2)
 > - 作业提交: [腾讯工蜂(Unit4-Pathway2)](https://git.code.tencent.com/SMD-2024Spring/Unit4-Pathway2)
+
+## Lab 10 (2024年5月6日~5月12日)
+> Unit4: Pathway3
+> - 在线课程: [Adapt for different screen sizes](https://developer.android.google.cn/courses/pathways/android-basics-compose-unit-4-pathway-3)
+> - 作业提交: [腾讯工蜂(Unit4-Pathway3)](https://git.code.tencent.com/SMD-2024Spring/Unit4-Pathway3)
