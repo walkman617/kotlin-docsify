@@ -130,3 +130,11 @@
 > Unit4: Pathway3
 > - 在线课程: [Adapt for different screen sizes](https://developer.android.google.cn/courses/pathways/android-basics-compose-unit-4-pathway-3)
 > - 作业提交: [腾讯工蜂(Unit4-Pathway3)](https://git.code.tencent.com/SMD-2024Spring/Unit4-Pathway3)
+
+## Lab 11 (2024年5月13日~5月19日)
+> Unit5: Pathway1
+> - 在线课程: [Get data from the internet](https://developer.android.google.cn/courses/pathways/android-basics-compose-unit-5-pathway-1)
+> - 如果访问互联网资源失败，请修改 MarsApiService.kt 文件中的 BASE_URL 值
+    - 原始值：https://android-kotlin-fun-mars-server.appspot.com
+    - 修改为：https://open.nkugame.com
+> - 作业提交: [腾讯工蜂(Unit5-Pathway1)](https://git.code.tencent.com/SMD-2024Spring/Unit5-Pathway1)
