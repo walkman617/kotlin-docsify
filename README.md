@@ -138,3 +138,11 @@
     - 原始值：https://android-kotlin-fun-mars-server.appspot.com
     - 修改为：https://open.nkugame.com
 > - 作业提交: [腾讯工蜂(Unit5-Pathway1)](https://git.code.tencent.com/SMD-2024Spring/Unit5-Pathway1)
+
+## Lab 12 (2024年5月20日~5月26日)
+> Unit5: Pathway2
+> - 在线课程: [Load and display images from the internet](https://developer.android.google.cn/courses/pathways/android-basics-compose-unit-5-pathway-2)
+> - 如果访问互联网资源失败，请修改 AppContainer.kt 文件中的 baseUrl 值
+    - 原始值：https://android-kotlin-fun-mars-server.appspot.com/
+    - 修改为：https://open.nkugame.com/
+> - 作业提交: [腾讯工蜂(Unit5-Pathway2)](https://git.code.tencent.com/SMD-2024Spring/Unit5-Pathway2)
