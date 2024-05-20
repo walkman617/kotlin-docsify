@@ -23,7 +23,7 @@
 > - [谷歌艺术与文化](https://artsandculture.google.com/)
 
 3. 附加要求：
-> 1）设计阶段：参加 “2024 AIGC创新赛” 的应用赛道（2024年5月20日前），使用蓝心大模型助力移动应用（App）的功能
+> 1）设计阶段：参加 “2024 AIGC创新赛” 的应用赛道（2024年5月20日前），使用蓝心大模型助力移动应用（App）开发
 > - 2024 AIGC创新赛：[官网](https://aigc.vivo.com/)
 > - 2024 AIGC创新赛：[竞赛规程](https://aigc.vivo.com/#/info/CPN20240401-002)
 > - 蓝心大模型：[使用指引](https://aigc.vivo.com/#/document)
@@ -142,7 +142,7 @@
 ## Lab 12 (2024年5月20日~5月26日)
 > Unit5: Pathway2
 > - 在线课程: [Load and display images from the internet](https://developer.android.google.cn/courses/pathways/android-basics-compose-unit-5-pathway-2)
-> - 如果访问互联网资源失败，请修改 AppContainer.kt 文件中的 baseUrl 值
+> - 如果访问互联网资源失败，请修改 AppContainer.kt 文件中的 baseUrl 或 BASE_URL 值
     - 原始值：https://android-kotlin-fun-mars-server.appspot.com/
     - 修改为：https://open.nkugame.com/
 > - 作业提交: [腾讯工蜂(Unit5-Pathway2)](https://git.code.tencent.com/SMD-2024Spring/Unit5-Pathway2)
