@@ -23,7 +23,7 @@
 > - [谷歌艺术与文化](https://artsandculture.google.com/)
 
 3. 附加要求：
-> 1）设计阶段：组队（1-3人）参加 “2024 AIGC创新赛” 的应用赛道（2024年5月17日前），使用蓝心大模型助力移动应用（App）的功能
+> 1）设计阶段：参加 “2024 AIGC创新赛” 的应用赛道（2024年5月20日前），使用蓝心大模型助力移动应用（App）的功能
 > - 2024 AIGC创新赛：[官网](https://aigc.vivo.com/)
 > - 2024 AIGC创新赛：[竞赛规程](https://aigc.vivo.com/#/info/CPN20240401-002)
 > - 蓝心大模型：[使用指引](https://aigc.vivo.com/#/document)
