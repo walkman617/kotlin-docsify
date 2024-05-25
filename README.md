@@ -146,3 +146,12 @@
     - 原始值：https://android-kotlin-fun-mars-server.appspot.com/
     - 修改为：https://open.nkugame.com/
 > - 作业提交: [腾讯工蜂(Unit5-Pathway2)](https://git.code.tencent.com/SMD-2024Spring/Unit5-Pathway2)
+
+## Lab 13 (2024年5月27日~6月2日)
+> Unit6: Pathway1
+> - 在线课程: [Introduction to SQL](https://developer.android.google.cn/courses/pathways/android-basics-compose-unit-6-pathway-1)
+> - 作业提交: [腾讯工蜂(Unit6-Pathway1)](https://git.code.tencent.com/SMD-2024Spring/Unit6-Pathway1)
+> 
+> Unit6: Pathway2
+> - 在线课程: [Use Room for data persistence](https://developer.android.google.cn/courses/pathways/android-basics-compose-unit-6-pathway-2)
+> - 作业提交: [腾讯工蜂(Unit6-Pathway2)](https://git.code.tencent.com/SMD-2024Spring/Unit6-Pathway2)
