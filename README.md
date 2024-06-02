@@ -155,3 +155,8 @@
 > Unit6: Pathway2
 > - 在线课程: [Use Room for data persistence](https://developer.android.google.cn/courses/pathways/android-basics-compose-unit-6-pathway-2)
 > - 作业提交: [腾讯工蜂(Unit6-Pathway2)](https://git.code.tencent.com/SMD-2024Spring/Unit6-Pathway2)
+
+## Lab 14 (2024年6月3日~6月9日)
+> Unit6: Pathway3
+> - 在线课程: [Store and access data using keys with DataStore](https://developer.android.google.cn/courses/pathways/android-basics-compose-unit-6-pathway-3)
+> - 作业提交: [腾讯工蜂(Unit6-Pathway3)](https://git.code.tencent.com/SMD-2024Spring/Unit6-Pathway3)
