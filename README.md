@@ -35,6 +35,7 @@
 > 3）部署阶段：将移动应用（App）发布到某个移动应用商城，如：
 > - [vivo开放平台](https://dev.vivo.com.cn/)
 > - [Google Play](https://play.google.com/console/about/)
+> - [腾讯应用开放平台](https://app.open.qq.com/)
 > - 其他 
 
 4. 分数计算
