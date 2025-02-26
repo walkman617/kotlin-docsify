@@ -7,6 +7,5 @@
 > Android Basics with Compose
 
 [Essentials](#Essentials)
-[Final Report](#FinalReport)
+[Slides](https://docs.qq.com/s/9ciGd-kKPqji-7oXgP7L8W)
 [Assignments](#Assignments)
-[Slides](https://docs.qq.com/s/DsbmA3VfZtuT8rqFCS6QxG)
