@@ -22,3 +22,9 @@
 > Unit1: Pathway3
 > - 在线课程: [Build a basic layout](https://developer.android.google.cn/courses/pathways/android-basics-compose-unit-1-pathway-3)
 > - 作业提交: [Screenshots of Codelabs](https://docs.qq.com/form/page/DYmtDZWR0c3ZnbndK)
+
+## Lab 2 (2025年3月10日~3月16日)
+> Unit2: Pathway1
+> - 在线课程: [Kotlin fundamentals](https://developer.android.google.cn/courses/pathways/android-basics-compose-unit-2-pathway-1)
+> - 作业提交: [Screenshots of Codelabs](https://docs.qq.com/form/page/DYm9YQm5YdnVmem5E)
+> 
