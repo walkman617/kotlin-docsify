@@ -13,20 +13,20 @@
 ## Lab 1 (2025年3月3日~3月9日)
 > Unit1: Pathway1
 > - 在线课程: [Introduction to programming in Kotlin](https://developer.android.google.cn/courses/pathways/android-basics-compose-unit-1-pathway-1)
-> - 作业提交: [Screenshots of Codelabs](https://docs.qq.com/form/page/DYmVaZ2RJWGxNQUtu)
+> - 作业提交: [Activities Report](https://docs.qq.com/form/page/DYmVaZ2RJWGxNQUtu)
 > 
 > Unit1: Pathway2
 > - 在线课程: [Setup Android Studio](https://developer.android.google.cn/courses/pathways/android-basics-compose-unit-1-pathway-2)
-> - 作业提交: [Screenshots of Codelabs](https://docs.qq.com/form/page/DYmJtT21xZm9VS011)
+> - 作业提交: [Activities Report](https://docs.qq.com/form/page/DYmJtT21xZm9VS011)
 > 
 > Unit1: Pathway3
 > - 在线课程: [Build a basic layout](https://developer.android.google.cn/courses/pathways/android-basics-compose-unit-1-pathway-3)
-> - 作业提交: [Screenshots of Codelabs](https://docs.qq.com/form/page/DYmtDZWR0c3ZnbndK)
+> - 作业提交: [Activities Report](https://docs.qq.com/form/page/DYmtDZWR0c3ZnbndK)
 
 ## Lab 2 (2025年3月10日~3月16日)
 > Unit2: Pathway1
 > - 在线课程: [Kotlin fundamentals](https://developer.android.google.cn/courses/pathways/android-basics-compose-unit-2-pathway-1)
-> - 作业提交: [Screenshots of Codelabs](https://docs.qq.com/form/page/DYm9YQm5YdnVmem5E)
+> - 作业提交: [Activities Report](https://docs.qq.com/form/page/DYm9YQm5YdnVmem5E)
 >
 
 ## Lab 3 (TBD)
