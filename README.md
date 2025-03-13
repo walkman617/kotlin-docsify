@@ -28,5 +28,3 @@
 > - 在线课程: [Kotlin fundamentals](https://developer.android.google.cn/courses/pathways/android-basics-compose-unit-2-pathway-1)
 > - 作业提交: [Activities Report](https://docs.qq.com/form/page/DYm9YQm5YdnVmem5E)
 >
-
-## Lab 3 (TBD)
