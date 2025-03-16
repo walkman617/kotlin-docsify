@@ -1,6 +1,7 @@
 # 课程资料
 
-## [课件下载](https://docs.qq.com/s/9ciGd-kKPqji-7oXgP7L8W)
+## [课件](https://docs.qq.com/s/9ciGd-kKPqji-7oXgP7L8W)
+> [Slides](https://docs.qq.com/s/9ciGd-kKPqji-7oXgP7L8W)  
 
 ## [Kotlin](https://kotlinlang.org/)  
 > [Kotlin](https://kotlinlang.org/) is a cross-platform, statically typed, general-purpose programming language with type inference. 
