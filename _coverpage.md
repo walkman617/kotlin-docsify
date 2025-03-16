@@ -2,10 +2,9 @@
 
 ![logo](android.svg)
 
-# Smart Mobile Development
+# 智能移动开发
 
-> Android Basics with Compose
+> 2025年春季
 
-[Essentials](#Essentials)
-[Slides](https://docs.qq.com/s/9ciGd-kKPqji-7oXgP7L8W)
-[Assignments](#Assignments)
+[课件下载](https://docs.qq.com/s/9ciGd-kKPqji-7oXgP7L8W)
+
