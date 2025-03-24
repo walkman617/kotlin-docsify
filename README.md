@@ -37,3 +37,7 @@
 > - 在线课程: [Add a button to an app](https://developer.android.google.cn/courses/pathways/android-basics-compose-unit-2-pathway-2)
 > - 作业提交: [Activities Report](https://docs.qq.com/form/page/DYmpzZWJUeFNHbmZ3)
 
+**第 4 周 (2025年3月24日~3月30日)**
+> Unit2: Pathway3
+> - 在线课程: [Interacting with UI and state](https://developer.android.google.cn/courses/pathways/android-basics-compose-unit-2-pathway-3)
+> - 作业提交: [Activities Report](https://docs.qq.com/form/page/DYnJXRkdmdEdETnpr)
