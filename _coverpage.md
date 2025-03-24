@@ -6,5 +6,5 @@
 
 > 2025年春季
 
-[课件下载](https://docs.qq.com/s/9ciGd-kKPqji-7oXgP7L8W)
-
+[课程资料](#课程资料)
+[课程作业](#课程作业)
