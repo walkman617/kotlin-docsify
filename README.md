@@ -41,3 +41,8 @@
 > Unit2: Pathway3
 > - 在线课程: [Interacting with UI and state](https://developer.android.google.cn/courses/pathways/android-basics-compose-unit-2-pathway-3)
 > - 作业提交: [Activities Report](https://docs.qq.com/form/page/DYnJXRkdmdEdETnpr)
+
+## 第 5 周 (2025年31日~4月6日)
+> Unit3: Pathway1
+> - 在线课程: [More Kotlin fundamentals](https://developer.android.google.cn/courses/pathways/android-basics-compose-unit-3-pathway-1)
+> - 作业提交: [Activities Report](https://docs.qq.com/form/page/DYk9LREJOdUVIcnJ5)
