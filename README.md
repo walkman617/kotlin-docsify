@@ -42,7 +42,12 @@
 > - 在线课程: [Interacting with UI and state](https://developer.android.google.cn/courses/pathways/android-basics-compose-unit-2-pathway-3)
 > - 作业提交: [Activities Report](https://docs.qq.com/form/page/DYnJXRkdmdEdETnpr)
 
-## 第 5 周 (2025年31日~4月6日)
+## 第 5 周 (2025年3月31日~4月6日)
 > Unit3: Pathway1
 > - 在线课程: [More Kotlin fundamentals](https://developer.android.google.cn/courses/pathways/android-basics-compose-unit-3-pathway-1)
 > - 作业提交: [Activities Report](https://docs.qq.com/form/page/DYk9LREJOdUVIcnJ5)
+
+## 第 6 周 (2025年4月7日~4月13日)
+> Unit3: Pathway2
+> - 在线课程: [Build a scrollable list](https://developer.android.google.cn/courses/pathways/android-basics-compose-unit-3-pathway-2)
+> - 作业提交: [Activities Report](https://docs.qq.com/form/page/DYm5SZm1hZXZOdHdr)
