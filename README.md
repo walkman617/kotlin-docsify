@@ -51,3 +51,8 @@
 > Unit3: Pathway2
 > - 在线课程: [Build a scrollable list](https://developer.android.google.cn/courses/pathways/android-basics-compose-unit-3-pathway-2)
 > - 作业提交: [Activities Report](https://docs.qq.com/form/page/DYm5SZm1hZXZOdHdr)
+
+## 第 7 周 (2025年4月14日~4月20日)
+> Unit3: Pathway3
+> - 在线课程: [Build beautiful apps](https://developer.android.google.cn/courses/pathways/android-basics-compose-unit-3-pathway-3)
+> - 作业提交: [Activities Report](https://docs.qq.com/form/page/DYndIa3VuZVVOWFNN)
