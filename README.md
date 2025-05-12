@@ -57,7 +57,12 @@
 > - 在线课程: [Build beautiful apps](https://developer.android.google.cn/courses/pathways/android-basics-compose-unit-3-pathway-3)
 > - 作业提交: [Activities Report](https://docs.qq.com/form/page/DYndIa3VuZVVOWFNN)
 
-## 第 8 周 (2025年4月28日~4月4日)
+## 第 8 周 (2025年4月28日~5月4日)
 > Unit4: Pathway1
 > - 在线课程: [Architecture Components](https://developer.android.google.cn/courses/pathways/android-basics-compose-unit-4-pathway-1)
 > - 作业提交: [Activities Report](https://docs.qq.com/form/page/DYk5zTG9DamRURHVE)
+
+## 第 9 周 (2025年12月28日~5月18日)
+> Unit4: Pathway2
+> - 在线课程: [Navigation in Jetpack Compose](https://developer.android.google.cn/courses/pathways/android-basics-compose-unit-4-pathway-2)
+> - 作业提交: [Activities Report](https://docs.qq.com/form/page/DYmFkUUpQWkF4QUZm)
