@@ -66,3 +66,8 @@
 > Unit4: Pathway2
 > - 在线课程: [Navigation in Jetpack Compose](https://developer.android.google.cn/courses/pathways/android-basics-compose-unit-4-pathway-2)
 > - 作业提交: [Activities Report](https://docs.qq.com/form/page/DYmFkUUpQWkF4QUZm)
+
+## 第 10 周 (2025年5月19日~5月25日)
+> Unit4: Pathway3
+> - 在线课程: [Adapt for different screen sizes](https://developer.android.google.cn/courses/pathways/android-basics-compose-unit-4-pathway-3)
+> - 作业提交: [Activities Report](https://docs.qq.com/form/page/DYmxUWVRvRkdrS09N)
