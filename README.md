@@ -75,9 +75,18 @@
 ## 第 11 周 (2025年5月26日~6月1日)
 > Unit5: Pathway1
 > - 在线课程: [Get data from the internet](https://developer.android.google.cn/courses/pathways/android-basics-compose-unit-5-pathway-1)
+> - Activity 3 （Introduction to Coroutines in Android Studio）实验中，如果遇到编译错误，请修改 build.gradle.kts 文件中 plugins 块内的两个 version 值
+    - 原始值：version "8.8.0"
+    - 修改为：version "8.6.0"
+> - Activity 5 （Get data from the internet）实验中，如果访问互联网资源失败，请修改 MarsApiService.kt 文件中的 BASE_URL 值
+    - 原始值：https://android-kotlin-fun-mars-server.appspot.com
+    - 修改为：https://open.nkugame.com
 > - 作业提交: [Activities Report](https://docs.qq.com/form/page/DYnRkWGxpc1FwSWFq)
 
 ## 第 12 周 (2025年6月2日~6月8日)
 > Unit5: Pathway2
 > - 在线课程: [Load and display images from the internet](https://developer.android.google.cn/courses/pathways/android-basics-compose-unit-5-pathway-2)
+> - 如果访问互联网资源失败，请修改 AppContainer.kt 文件中的 baseUrl 或 BASE_URL 值
+    - 原始值：https://android-kotlin-fun-mars-server.appspot.com/
+    - 修改为：https://open.nkugame.com/
 > - 作业提交: [Activities Report](https://docs.qq.com/form/page/DYnhOaFV0Unh1T3Rh)
