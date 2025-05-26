@@ -71,3 +71,13 @@
 > Unit4: Pathway3
 > - 在线课程: [Adapt for different screen sizes](https://developer.android.google.cn/courses/pathways/android-basics-compose-unit-4-pathway-3)
 > - 作业提交: [Activities Report](https://docs.qq.com/form/page/DYmxUWVRvRkdrS09N)
+
+## 第 11 周 (2025年5月26日~6月1日)
+> Unit5: Pathway1
+> - 在线课程: [Get data from the internet](https://developer.android.google.cn/courses/pathways/android-basics-compose-unit-5-pathway-1)
+> - 作业提交: [Activities Report](https://docs.qq.com/form/page/DYnRkWGxpc1FwSWFq)
+
+## 第 12 周 (2025年6月2日~6月8日)
+> Unit5: Pathway2
+> - 在线课程: [Load and display images from the internet](https://developer.android.google.cn/courses/pathways/android-basics-compose-unit-5-pathway-2)
+> - 作业提交: [Activities Report](https://docs.qq.com/form/page/DYnhOaFV0Unh1T3Rh)
