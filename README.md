@@ -13,14 +13,14 @@
 > 
 > [Android Basics with Compose](https://developer.android.google.cn/courses/android-basics-compose/course) is a self-paced, online course on how to build Android apps using the latest best practices. 
 
-# 期末报告 (2025年7月6日 23:59:59 前提交)
+# 期末报告 
 
 ## 开发资源推荐
 > - Jetpack Compose: [Samples](https://github.com/android/compose-samples)
 > - 后端：[腾讯云开发](https://tcb.cloud.tencent.com/)
 > - UI设计：[即时设计](https://js.design)
 
-## 期末报告要求
+## 期末报告要求 (2025年7月6日 23:59:59 前提交)
 > 1. 各位同学组队报名参加[2025动感地带AI+高校创智计划](https://g.migufun.com/aIfmau) 大赛的[内容赛道](https://www.migufun.com/5gcampus/?fromSource=others&pageId=102004)。
 > 2. 开发基于APP/小程序/H5等技术栈的参赛作品：（1）AI+中国优秀传统文化；（2）AI+健康体感互动；（3）AI+大学生心理健康。
 > 3. 按竞赛要求在竞赛官网提交:（1）作品创意描述文件；（2） 作品演示视频 等文件。
