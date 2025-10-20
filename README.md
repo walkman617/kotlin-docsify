@@ -18,60 +18,76 @@
 # Assignments
 ## Unit 1 - Pathway 1 (Before Sept. 29th, 2025)
 > online course: [Introduction to programming in Kotlin](https://developer.android.google.cn/courses/pathways/android-basics-compose-unit-1-pathway-1)
+> 
 > assignment: [Practice Problems: Kotlin Basics](https://developer.android.google.cn/codelabs/basic-android-kotlin-compose-intro-kotlin-practice-problems)
+> 
 > submit: [Project Report](https://docs.qq.com/form/page/DYkRHc3R1Yk9aZExY)
 
 ## Unit 1 - Pathway 2 (Before Oct. 12th, 2025)
 > online course: [Setup Android Studio](https://developer.android.google.cn/courses/pathways/android-basics-compose-unit-1-pathway-2)
+> 
 > assignment: [Run your first app on the Android Emulator](https://developer.android.google.cn/codelabs/basic-android-kotlin-compose-emulator)
+> 
 > submit: [Project Report](https://docs.qq.com/form/page/DYkFUUWZrQ0NQR1NI)
 
 ## Unit 1 - Pathway 3 (Before Oct. 20th, 2025)
 > online course: [Build a basic layout](https://developer.android.google.cn/courses/pathways/android-basics-compose-unit-1-pathway-3)
+> 
 > assignment: [Project: Create a business card app](https://developer.android.google.cn/codelabs/basic-android-kotlin-compose-business-card)
+> 
 > submit: [Project Report](https://docs.qq.com/form/page/DYnhXSUhmRExNdXN5)
 
 ## Unit 2 - Pathway 1 (Before Oct. 20th, 2025)
 > online course: [Kotlin fundamentals](https://developer.android.google.cn/courses/pathways/android-basics-compose-unit-2-pathway-1)
+> 
 > assignment: [Practice: Kotlin Fundamentals](https://developer.android.google.cn/codelabs/basic-android-kotlin-compose-kotlin-fundamentals-practice-problems)
+> 
 > submit: [Project Report](https://docs.qq.com/form/page/DYk9YS3NlYkdlcVBT)
 
 ## Unit 2 - Pathway 2
 > online course: [Add a button to an app](https://developer.android.google.cn/courses/pathways/android-basics-compose-unit-2-pathway-2)
+> 
 > submit: TBD
 
 ## Unit 2 - Pathway 3
 > online course: [Interacting with UI and state](https://developer.android.google.cn/courses/pathways/android-basics-compose-unit-2-pathway-3)
+> 
 > submit: TBD
 
 
 ## Unit 3 - Pathway 1
 > online course: [More Kotlin fundamentals](https://developer.android.google.cn/courses/pathways/android-basics-compose-unit-3-pathway-1)
+> 
 > submit: TBD
 
 
 ## Unit 3 - Pathway 2
 > online course: [Build a scrollable list](https://developer.android.google.cn/courses/pathways/android-basics-compose-unit-3-pathway-2)
+> 
 > submit: TBD
 
 ## Unit 3 - Pathway 3
 > online course: [Build beautiful apps](https://developer.android.google.cn/courses/pathways/android-basics-compose-unit-3-pathway-3)
+> 
 > submit: TBD
 
 ## Unit 4 - Pathway 1
 > online course: [Architecture Components](https://developer.android.google.cn/courses/pathways/android-basics-compose-unit-4-pathway-1)
+> 
 > submit: TBD
 
 ## Unit 4 - Pathway 2
 > online course: [Navigation in Jetpack Compose](https://developer.android.google.cn/courses/pathways/android-basics-compose-unit-4-pathway-2)
+> 
 > submit: TBD
 
 ## Unit 4 - Pathway 3
 > online course: [Adapt for different screen sizes](https://developer.android.google.cn/courses/pathways/android-basics-compose-unit-4-pathway-3)
+> 
 > submit: TBD
 
 ## Unit 5 - Pathway 1
-> - online course: [Get data from the internet](https://developer.android.google.cn/courses/pathways/android-basics-compose-unit-5-pathway-1)
+> online course: [Get data from the internet](https://developer.android.google.cn/courses/pathways/android-basics-compose-unit-5-pathway-1)
 > - in Activity 3 （Introduction to Coroutines in Android Studio），please modify the version's value in the file "build.gradle.kts" 
     - from: version "8.8.0"
     - to: version "8.6.0"
@@ -81,8 +97,8 @@
 > - submit: TBD
 
 ## Unit 5 - Pathway 2
-> - online course: [Load and display images from the internet](https://developer.android.google.cn/courses/pathways/android-basics-compose-unit-5-pathway-2)
-> - 如果访问互联网资源失败，请修改 AppContainer.kt 文件中的 baseUrl 或 BASE_URL 值
-    - 原始值：https://android-kotlin-fun-mars-server.appspot.com/
-    - 修改为：https://open.nkugame.com/
+> online course: [Load and display images from the internet](https://developer.android.google.cn/courses/pathways/android-basics-compose-unit-5-pathway-2)
+> - please modify the baseUrl's or BASE_URL's value in the file "AppContainer.kt" 
+    - from: https://android-kotlin-fun-mars-server.appspot.com/
+    - to: https://open.nkugame.com/
 > - submit: TBD
