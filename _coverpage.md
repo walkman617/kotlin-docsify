@@ -2,10 +2,10 @@
 
 ![logo](android.svg)
 
-# 智能移动开发
+# Intelligent Mobile Development
 
-> 2025年春季
+> 2025 Autumn 
 
-[课程资料](#课程资料)
-[期末报告](#期末报告)
-[课程作业](#课程作业)
+[Resources](#Resources)
+
+[Assignments](#Assignments)
