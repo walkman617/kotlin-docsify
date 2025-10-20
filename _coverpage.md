@@ -7,5 +7,4 @@
 > 2025 Autumn 
 
 [Resources](#Resources)
-
 [Assignments](#Assignments)
