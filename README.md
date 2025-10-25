@@ -37,7 +37,7 @@
 > 
 > submit: [Project Report](https://docs.qq.com/form/page/DYnhXSUhmRExNdXN5)
 
-## Unit 2 - Pathway 1 (Before Oct. 20th, 2025)
+## Unit 2 - Pathway 1 (Before Oct. 27th, 2025)
 > online course: [Kotlin fundamentals](https://developer.android.google.cn/courses/pathways/android-basics-compose-unit-2-pathway-1)
 > 
 > assignment: [Practice: Kotlin Fundamentals](https://developer.android.google.cn/codelabs/basic-android-kotlin-compose-kotlin-fundamentals-practice-problems)
