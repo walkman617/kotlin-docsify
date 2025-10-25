@@ -47,7 +47,10 @@
 ## Unit 2 - Pathway 2
 > online course: [Add a button to an app](https://developer.android.google.cn/courses/pathways/android-basics-compose-unit-2-pathway-2)
 > 
-> submit: TBD
+> assignment: [Practice: Click behavior](https://developer.android.google.cn/codelabs/basic-android-kotlin-compose-button-click-practice-problem)
+> 
+> submit: [Project Report](https://docs.qq.com/form/page/DYnVXWmd6RGhsRHJY)
+
 
 ## Unit 2 - Pathway 3
 > online course: [Interacting with UI and state](https://developer.android.google.cn/courses/pathways/android-basics-compose-unit-2-pathway-3)
