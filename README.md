@@ -44,7 +44,7 @@
 > 
 > submit: [Project Report](https://docs.qq.com/form/page/DYk9YS3NlYkdlcVBT)
 
-## Unit 2 - Pathway 2
+## Unit 2 - Pathway 2 (Before Nov. 3th, 2025)
 > online course: [Add a button to an app](https://developer.android.google.cn/courses/pathways/android-basics-compose-unit-2-pathway-2)
 > 
 > assignment: [Practice: Click behavior](https://developer.android.google.cn/codelabs/basic-android-kotlin-compose-button-click-practice-problem)
