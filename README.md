@@ -52,10 +52,13 @@
 > submit: [Project Report](https://docs.qq.com/form/page/DYnVXWmd6RGhsRHJY)
 
 
-## Unit 2 - Pathway 3
+## Unit 2 - Pathway 3 (Before Nov. 10th, 2025)
 > online course: [Interacting with UI and state](https://developer.android.google.cn/courses/pathways/android-basics-compose-unit-2-pathway-3)
 > 
-> submit: TBD
+> assignment: [Practice: Click behavior](https://developer.android.google.cn/codelabs/basic-android-kotlin-compose-art-space)
+> 
+> submit: [Project Report](https://docs.qq.com/form/page/DYkpFUUJvRGtyakR6)
+
 
 
 ## Unit 3 - Pathway 1
