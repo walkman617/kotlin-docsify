@@ -23,7 +23,7 @@
 > 
 > submit: [Project Report](https://docs.qq.com/form/page/DYkRHc3R1Yk9aZExY)
 
-## Unit 1 - Pathway 2 (Before Oct. 12th, 2025)
+## Unit 1 - Pathway 2 (Before Oct. 12nd, 2025)
 > online course: [Setup Android Studio](https://developer.android.google.cn/courses/pathways/android-basics-compose-unit-1-pathway-2)
 > 
 > assignment: [Run your first app on the Android Emulator](https://developer.android.google.cn/codelabs/basic-android-kotlin-compose-emulator)
@@ -44,7 +44,7 @@
 > 
 > submit: [Project Report](https://docs.qq.com/form/page/DYk9YS3NlYkdlcVBT)
 
-## Unit 2 - Pathway 2 (Before Nov. 3th, 2025)
+## Unit 2 - Pathway 2 (Before Nov. 3rd, 2025)
 > online course: [Add a button to an app](https://developer.android.google.cn/courses/pathways/android-basics-compose-unit-2-pathway-2)
 > 
 > assignment: [Practice: Click behavior](https://developer.android.google.cn/codelabs/basic-android-kotlin-compose-button-click-practice-problem)
@@ -69,10 +69,14 @@
 > submit: [Project Report](https://docs.qq.com/form/page/DYkxWeWFvUkVGRFRV)
 
 
-## Unit 3 - Pathway 2
+## Unit 3 - Pathway 2 (Before Dec. 1st, 2025)
 > online course: [Build a scrollable list](https://developer.android.google.cn/courses/pathways/android-basics-compose-unit-3-pathway-2)
 > 
-> submit: TBD
+> assignment: [Practice: Build a grid](https://developer.android.google.cn/codelabs/basic-android-kotlin-compose-practice-grid)
+> 
+> submit: [Project Report](https://docs.qq.com/form/page/DYndvRmhEeGtWcUZo)
+
+
 
 ## Unit 3 - Pathway 3
 > online course: [Build beautiful apps](https://developer.android.google.cn/courses/pathways/android-basics-compose-unit-3-pathway-3)
