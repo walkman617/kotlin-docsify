@@ -78,7 +78,7 @@
 
 
 
-## Unit 3 - Pathway 3
+## Unit 3 - Pathway 3 (Before Dec. 8th, 2025)
 > online course: [Build beautiful apps](https://developer.android.google.cn/courses/pathways/android-basics-compose-unit-3-pathway-3)
 > 
 > assignment: [Project: Create a 30 Days App](https://developer.android.google.cn/codelabs/basic-android-kotlin-compose-30-days)
