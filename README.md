@@ -89,7 +89,10 @@
 ## Unit 4 - Pathway 1
 > online course: [Architecture Components](https://developer.android.google.cn/courses/pathways/android-basics-compose-unit-4-pathway-1)
 > 
-> submit: TBD
+> assignment: [Practice: Add a ViewModel to Dessert Clicker](https://developer.android.google.cn/codelabs/basic-android-kotlin-compose-practice-viewmodel)
+> 
+> submit: [Project Report](https://docs.qq.com/form/page/DYkpqZ1paRUJvVUR6)
+
 
 ## Unit 4 - Pathway 2
 > online course: [Navigation in Jetpack Compose](https://developer.android.google.cn/courses/pathways/android-basics-compose-unit-4-pathway-2)
