@@ -86,7 +86,7 @@
 > submit: [Project Report](https://docs.qq.com/form/page/DYnNmVE53d3pJd2VR)
 
 
-## Unit 4 - Pathway 1
+## Unit 4 - Pathway 1 (Before Dec. 15th, 2025)
 > online course: [Architecture Components](https://developer.android.google.cn/courses/pathways/android-basics-compose-unit-4-pathway-1)
 > 
 > assignment: [Practice: Add a ViewModel to Dessert Clicker](https://developer.android.google.cn/codelabs/basic-android-kotlin-compose-practice-viewmodel)
