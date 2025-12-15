@@ -94,10 +94,13 @@
 > submit: [Project Report](https://docs.qq.com/form/page/DYkpqZ1paRUJvVUR6)
 
 
-## Unit 4 - Pathway 2
+## Unit 4 - Pathway 2 (Before Dec. 22th, 2025)
 > online course: [Navigation in Jetpack Compose](https://developer.android.google.cn/courses/pathways/android-basics-compose-unit-4-pathway-2)
+>
+> assignment: [Practice: Add navigation](https://developer.android.google.cn/codelabs/basic-android-kotlin-compose-practice-navigation)
 > 
-> submit: TBD
+> submit: [Project Report](https://docs.qq.com/form/page/DYkZTTUh5VkJwcU5L)
+
 
 ## Unit 4 - Pathway 3
 > online course: [Adapt for different screen sizes](https://developer.android.google.cn/courses/pathways/android-basics-compose-unit-4-pathway-3)
