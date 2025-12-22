@@ -102,10 +102,13 @@
 > submit: [Project Report](https://docs.qq.com/form/page/DYkZTTUh5VkJwcU5L)
 
 
-## Unit 4 - Pathway 3
+## Unit 4 - Pathway 3 (Before Dec. 29th, 2025)
 > online course: [Adapt for different screen sizes](https://developer.android.google.cn/courses/pathways/android-basics-compose-unit-4-pathway-3)
 > 
-> submit: TBD
+> assignment: [Practice: Create a My City app](https://developer.android.google.cn/codelabs/basic-android-kotlin-compose-my-city)
+> 
+> submit: [Project Report](https://docs.qq.com/form/page/DYnJJVk5CV3FIYkNy)
+
 
 ## Unit 5 - Pathway 1
 > online course: [Get data from the internet](https://developer.android.google.cn/courses/pathways/android-basics-compose-unit-5-pathway-1)
