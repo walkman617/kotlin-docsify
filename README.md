@@ -112,9 +112,6 @@
 
 ## Unit 5 - Pathway 1
 > online course: [Get data from the internet](https://developer.android.google.cn/courses/pathways/android-basics-compose-unit-5-pathway-1)
-> - in Activity 3 （Introduction to Coroutines in Android Studio），please modify the version's value in the file "build.gradle.kts" 
-    - from: version "8.8.0"
-    - to: version "8.6.0"
 > - in Activity 5 （Get data from the internet）, please modify the BASE_URL's value in the file "MarsApiService.kt"
     - from：https://android-kotlin-fun-mars-server.appspot.com
     - to：https://open.nkugame.com
