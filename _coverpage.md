@@ -2,9 +2,9 @@
 
 ![logo](android.svg)
 
-# Intelligent Mobile Development
+# Smart Mobile Development
 
-> 2025 Autumn 
+> 2026 Spring 
 
 [Resources](#Resources)
 [Assignments](#Assignments)
