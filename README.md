@@ -16,7 +16,7 @@
 
 
 # Assignments
-## Unit 1 - Pathway 1 (Before March 7th, 2026)
+## Unit 1 - Pathway 1 (Before March 27th, 2026)
 > online course: [Introduction to programming in Kotlin](https://developer.android.google.cn/courses/pathways/android-basics-compose-unit-1-pathway-1)
 > 
 > assignment: [Practice Problems: Kotlin Basics](https://developer.android.google.cn/codelabs/basic-android-kotlin-compose-intro-kotlin-practice-problems)
