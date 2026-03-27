@@ -22,3 +22,18 @@
 > assignment: [Practice Problems: Kotlin Basics](https://developer.android.google.cn/codelabs/basic-android-kotlin-compose-intro-kotlin-practice-problems)
 > 
 > submit: [Project Report](https://docs.qq.com/form/page/DYnJMd2pva2x2VVF2)
+
+
+## Unit 1 - Pathway 2 (Before April. 3rd, 2026)
+> online course: [Setup Android Studio](https://developer.android.google.cn/courses/pathways/android-basics-compose-unit-1-pathway-2)
+> 
+> assignment: [Run your first app on the Android Emulator](https://developer.android.google.cn/codelabs/basic-android-kotlin-compose-emulator)
+> 
+> submit: [Project Report](https://docs.qq.com/form/page/DYmdoSkdaR3Z6YURS)
+
+## Unit 1 - Pathway 3 (Before April. 3rd, 2026)
+> online course: [Build a basic layout](https://developer.android.google.cn/courses/pathways/android-basics-compose-unit-1-pathway-3)
+> 
+> assignment: [Project: Create a business card app](https://developer.android.google.cn/codelabs/basic-android-kotlin-compose-business-card)
+> 
+> submit: [Project Report](https://docs.qq.com/form/page/DYmNYT2NkUVFuQUdL)

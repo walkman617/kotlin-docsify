@@ -16,26 +16,8 @@
 
 
 # Assignments
-## Unit 1 - Pathway 1 (Before Sept. 29th, 2025)
-> online course: [Introduction to programming in Kotlin](https://developer.android.google.cn/courses/pathways/android-basics-compose-unit-1-pathway-1)
-> 
-> assignment: [Practice Problems: Kotlin Basics](https://developer.android.google.cn/codelabs/basic-android-kotlin-compose-intro-kotlin-practice-problems)
-> 
-> submit: [Project Report](https://docs.qq.com/form/page/DYkRHc3R1Yk9aZExY)
 
-## Unit 1 - Pathway 2 (Before Oct. 12nd, 2025)
-> online course: [Setup Android Studio](https://developer.android.google.cn/courses/pathways/android-basics-compose-unit-1-pathway-2)
-> 
-> assignment: [Run your first app on the Android Emulator](https://developer.android.google.cn/codelabs/basic-android-kotlin-compose-emulator)
-> 
-> submit: [Project Report](https://docs.qq.com/form/page/DYkFUUWZrQ0NQR1NI)
 
-## Unit 1 - Pathway 3 (Before Oct. 20th, 2025)
-> online course: [Build a basic layout](https://developer.android.google.cn/courses/pathways/android-basics-compose-unit-1-pathway-3)
-> 
-> assignment: [Project: Create a business card app](https://developer.android.google.cn/codelabs/basic-android-kotlin-compose-business-card)
-> 
-> submit: [Project Report](https://docs.qq.com/form/page/DYnhXSUhmRExNdXN5)
 
 ## Unit 2 - Pathway 1 (Before Oct. 27th, 2025)
 > online course: [Kotlin fundamentals](https://developer.android.google.cn/courses/pathways/android-basics-compose-unit-2-pathway-1)
