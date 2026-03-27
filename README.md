@@ -39,7 +39,7 @@
 > submit: [Project Report](https://docs.qq.com/form/page/DYmNYT2NkUVFuQUdL)
 
 
-# Final Report 
+# FinalReport 
 ## 报名参加2026年中国高校计算机大赛-AIGC创新赛（应用赛道）
 > 1. 竞赛网站：https://aigc.vivo.com.cn/
 > 
