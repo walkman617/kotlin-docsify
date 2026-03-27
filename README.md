@@ -24,16 +24,28 @@
 > submit: [Project Report](https://docs.qq.com/form/page/DYnJMd2pva2x2VVF2)
 
 
-## Unit 1 - Pathway 2 (Before April. 3rd, 2026)
+## Unit 1 - Pathway 2 (Before April 3rd, 2026)
 > online course: [Setup Android Studio](https://developer.android.google.cn/courses/pathways/android-basics-compose-unit-1-pathway-2)
 > 
 > assignment: [Run your first app on the Android Emulator](https://developer.android.google.cn/codelabs/basic-android-kotlin-compose-emulator)
 > 
 > submit: [Project Report](https://docs.qq.com/form/page/DYmdoSkdaR3Z6YURS)
 
-## Unit 1 - Pathway 3 (Before April. 3rd, 2026)
+## Unit 1 - Pathway 3 (Before April 3rd, 2026)
 > online course: [Build a basic layout](https://developer.android.google.cn/courses/pathways/android-basics-compose-unit-1-pathway-3)
 > 
 > assignment: [Project: Create a business card app](https://developer.android.google.cn/codelabs/basic-android-kotlin-compose-business-card)
 > 
 > submit: [Project Report](https://docs.qq.com/form/page/DYmNYT2NkUVFuQUdL)
+
+
+# Final Report 
+## 报名参加2026年中国高校计算机大赛-AIGC创新赛（应用赛道）
+> 1. 竞赛网站：https://aigc.vivo.com.cn/
+> 
+> 2. 组队报名：每支队伍至多5人，每支队伍至多有2位指导教师
+> 
+> 3. 竞赛规程：https://aigc.vivo.com.cn/#/info/CPN20260310-069
+
+## 提交作品
+> submit: [TBD]
