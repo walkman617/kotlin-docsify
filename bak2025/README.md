@@ -19,12 +19,6 @@
 
 
 
-## Unit 2 - Pathway 1 (Before Oct. 27th, 2025)
-> online course: [Kotlin fundamentals](https://developer.android.google.cn/courses/pathways/android-basics-compose-unit-2-pathway-1)
-> 
-> assignment: [Practice: Kotlin Fundamentals](https://developer.android.google.cn/codelabs/basic-android-kotlin-compose-kotlin-fundamentals-practice-problems)
-> 
-> submit: [Project Report](https://docs.qq.com/form/page/DYk9YS3NlYkdlcVBT)
 
 ## Unit 2 - Pathway 2 (Before Nov. 3rd, 2025)
 > online course: [Add a button to an app](https://developer.android.google.cn/courses/pathways/android-basics-compose-unit-2-pathway-2)

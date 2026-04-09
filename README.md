@@ -39,6 +39,14 @@
 > submit: [Project Report](https://docs.qq.com/form/page/DYmNYT2NkUVFuQUdL)
 
 
+## Unit 2 - Pathway 1 (Before April 17th, 2026)
+> online course: [Kotlin fundamentals](https://developer.android.google.cn/courses/pathways/android-basics-compose-unit-2-pathway-1)
+> 
+> assignment: [Practice: Kotlin Fundamentals](https://developer.android.google.cn/codelabs/basic-android-kotlin-compose-kotlin-fundamentals-practice-problems)
+> 
+> submit: [Project Report](https://docs.qq.com/form/page/DYkNkRnVhY01aeGJw)
+
+
 # FinalReport 
 ## 报名参加2026年中国高校计算机大赛-AIGC创新赛（应用赛道）
 > 1. 竞赛网站：https://aigc.vivo.com.cn/
