@@ -47,6 +47,15 @@
 > submit: [Project Report](https://docs.qq.com/form/page/DYkNkRnVhY01aeGJw)
 
 
+
+## Unit 2 - Pathway 2 (Before May 1st, 2026)
+> online course: [Add a button to an app](https://developer.android.google.cn/courses/pathways/android-basics-compose-unit-2-pathway-2)
+> 
+> assignment: [Practice: Click behavior](https://developer.android.google.cn/codelabs/basic-android-kotlin-compose-button-click-practice-problem)
+> 
+> submit: [Project Report](https://docs.qq.com/form/page/DYmpJQVpzaU1qdGdr)
+
+
 # FinalReport 
 ## 报名参加2026年中国高校计算机大赛-AIGC创新赛（应用赛道）
 > 1. 竞赛网站：https://aigc.vivo.com.cn/
