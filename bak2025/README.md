@@ -17,26 +17,6 @@
 
 # Assignments
 
-
-
-
-## Unit 2 - Pathway 2 (Before Nov. 3rd, 2025)
-> online course: [Add a button to an app](https://developer.android.google.cn/courses/pathways/android-basics-compose-unit-2-pathway-2)
-> 
-> assignment: [Practice: Click behavior](https://developer.android.google.cn/codelabs/basic-android-kotlin-compose-button-click-practice-problem)
-> 
-> submit: [Project Report](https://docs.qq.com/form/page/DYnVXWmd6RGhsRHJY)
-
-
-## Unit 2 - Pathway 3 (Before Nov. 10th, 2025)
-> online course: [Interacting with UI and state](https://developer.android.google.cn/courses/pathways/android-basics-compose-unit-2-pathway-3)
-> 
-> assignment: [Practice: Click behavior](https://developer.android.google.cn/codelabs/basic-android-kotlin-compose-art-space)
-> 
-> submit: [Project Report](https://docs.qq.com/form/page/DYkpFUUJvRGtyakR6)
-
-
-
 ## Unit 3 - Pathway 1 (Before Nov. 24th, 2025)
 > online course: [More Kotlin fundamentals](https://developer.android.google.cn/courses/pathways/android-basics-compose-unit-3-pathway-1)
 > 
@@ -106,6 +86,7 @@
 > assignment: [Practice: Build amphibians app](https://developer.android.google.cn/codelabs/basic-android-kotlin-compose-practice-amphibians-app)
 > 
 > submit: [Project Report](https://docs.qq.com/form/page/DYkNMVkZYZm9IV3Va)
+
 
 
 # Final Report (Before Jan. 26th, 2026)

@@ -1,4 +1,4 @@
-# Resources
+# 课程资源
 
 ## Slides
 > [Slides](https://docs.qq.com/s/6DRKIV4V2aqg2V_JY4o9rq)  
@@ -15,7 +15,7 @@
 
 
 
-# Assignments
+# 课程作业
 ## Unit 1 - Pathway 1 (Before March 27th, 2026)
 > online course: [Introduction to programming in Kotlin](https://developer.android.google.cn/courses/pathways/android-basics-compose-unit-1-pathway-1)
 > 
@@ -47,7 +47,20 @@
 > submit: [Project Report](https://docs.qq.com/form/page/DYkNkRnVhY01aeGJw)
 
 
-# FinalReport 
+## Unit 2 - Pathway 3 (Before May. 17th, 2026)
+> online course: [Interacting with UI and state](https://developer.android.google.cn/courses/pathways/android-basics-compose-unit-2-pathway-3)
+> 
+> assignment: [Practice: Click behavior](https://developer.android.google.cn/codelabs/basic-android-kotlin-compose-art-space)
+> 
+> submit: [Project Report](https://docs.qq.com/form/page/DYmVzcWFqYmRDS1hH)
+
+# 课程实践 
+## 扣子编程动手实验 (Before May. 15th, 2026)
+> 1. 实验手册：[在线文档](https://nankai.feishu.cn/docx/Mv1YdaSZYotLrPxbavAcMmpvnEh?from=from_copylink)
+> 
+> 2. 实验结果：[在线提交](https://docs.qq.com/form/page/DYk9NR25QUFVna3dC) 
+
+# 课程报告 
 ## 报名参加2026年中国高校计算机大赛-AIGC创新赛（应用赛道）
 > 1. 竞赛网站：https://aigc.vivo.com.cn/
 > 
