@@ -46,6 +46,12 @@
 > 
 > submit: [Project Report](https://docs.qq.com/form/page/DYkNkRnVhY01aeGJw)
 
+## Unit 2 - Pathway 2 (Before May 1st, 2026)
+> online course: [Add a button to an app](https://developer.android.google.cn/courses/pathways/android-basics-compose-unit-2-pathway-2)
+> 
+> assignment: [Practice: Click behavior](https://developer.android.google.cn/codelabs/basic-android-kotlin-compose-button-click-practice-problem)
+> 
+> submit: [Project Report](https://docs.qq.com/form/page/DYmpJQVpzaU1qdGdr)
 
 ## Unit 2 - Pathway 3 (Before May. 17th, 2026)
 > online course: [Interacting with UI and state](https://developer.android.google.cn/courses/pathways/android-basics-compose-unit-2-pathway-3)
@@ -53,6 +59,7 @@
 > assignment: [Practice: Click behavior](https://developer.android.google.cn/codelabs/basic-android-kotlin-compose-art-space)
 > 
 > submit: [Project Report](https://docs.qq.com/form/page/DYmVzcWFqYmRDS1hH)
+
 
 # 课程实践 
 ## 扣子编程动手实验 (Before May. 15th, 2026)
