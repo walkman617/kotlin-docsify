@@ -60,6 +60,13 @@
 > 
 > submit: [Project Report](https://docs.qq.com/form/page/DYmVzcWFqYmRDS1hH)
 
+## Unit 3 - Pathway 1 (Before May. 22nd, 2026)
+> online course: [More Kotlin fundamentals](https://developer.android.google.cn/courses/pathways/android-basics-compose-unit-3-pathway-1)
+> 
+> assignment: [Practice: Classes and Collections](https://developer.android.google.cn/codelabs/basic-android-kotlin-compose-practice-classes-and-collections)
+> 
+> submit: [Project Report](https://docs.qq.com/form/page/DYkdxakFLaERsR3BF)
+
 
 # 课程实践 
 ## 扣子编程动手实验 (Before May. 15th, 2026)

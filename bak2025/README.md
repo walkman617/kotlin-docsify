@@ -17,12 +17,7 @@
 
 # Assignments
 
-## Unit 3 - Pathway 1 (Before Nov. 24th, 2025)
-> online course: [More Kotlin fundamentals](https://developer.android.google.cn/courses/pathways/android-basics-compose-unit-3-pathway-1)
-> 
-> assignment: [Practice: Classes and Collections](https://developer.android.google.cn/codelabs/basic-android-kotlin-compose-practice-classes-and-collections)
-> 
-> submit: [Project Report](https://docs.qq.com/form/page/DYkxWeWFvUkVGRFRV)
+
 
 
 ## Unit 3 - Pathway 2 (Before Dec. 1st, 2025)
