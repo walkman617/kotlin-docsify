@@ -82,5 +82,5 @@
 > 
 > 3. 竞赛规程：https://aigc.vivo.com.cn/#/info/CPN20260310-069
 
-## 提交作品
-> submit: [TBD]
+## 提交作品 (Before May. 22nd, 2026)
+> 队长提交: [在线提交](https://docs.qq.com/form/page/DYnpDVVVzQVJXRmtU)
